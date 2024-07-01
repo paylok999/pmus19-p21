@@ -245,7 +245,7 @@
 	<!-- The 2nd Wings options -->
 		<Option ID="0" Number="1" Operator="1" Value="5" FormulaID="-1" ItemKindA="6" ItemKindB="24" Rate="2000" Name="Increase %d Attack (Wizardry) speed" />
 		<Option ID="1" Number="2" Operator="1" Value="50" FormulaID="-1" ItemKindA="6" ItemKindB="24" Rate="2000" Name="Increase Maximum AG by %d" />
-		<Option ID="2" Number="3" Operator="2" Value="3" FormulaID="-1" ItemKindA="6" ItemKindB="24" Rate="2000" Name="Increase chance of True Damage by %d%%" />
+		<Option ID="2" Number="3" Operator="2" Value="3"  FormulaID="-1" ItemKindA="6" ItemKindB="24" Rate="2000" Name="Increase chance of True Damage by %d%%" />
 		<Option ID="3" Number="4" Operator="6" Value="50" FormulaID="-1" ItemKindA="6" ItemKindB="24" Rate="2000" Name="Increases Mana by %d" />
 		<Option ID="4" Number="5" Operator="6" Value="50" FormulaID="-1" ItemKindA="6" ItemKindB="24" Rate="2000" Name="Increases Life by %d" />
 		
@@ -256,13 +256,13 @@
 		<Option ID="8" Number="5" Operator="2" Value="5" FormulaID="-1" ItemKindA="6" ItemKindB="25" Rate="2500" Name="Increase chance of True Damage by %d%%" />
 	
 	<!-- Cape of Lord options -->
-		<Option ID="9" Number="2" Operator="6" Value="10" FormulaID="-1" ItemKindA="6" ItemKindB="26" Rate="2500" Name="Increase Command by %d" />
-		<Option ID="10" Number="3" Operator="2" Value="3" FormulaID="-1" ItemKindA="6" ItemKindB="26" Rate="2500" Name="Increase chance of True Damage by %d%%" />
+		<Option ID="9"  Number="2" Operator="6" Value="10" FormulaID="-1" ItemKindA="6" ItemKindB="26" Rate="2500" Name="Increase Command by %d" />
+		<Option ID="10" Number="3" Operator="2" Value="3"  FormulaID="-1" ItemKindA="6" ItemKindB="26" Rate="2500" Name="Increase chance of True Damage by %d%%" />
 		<Option ID="11" Number="4" Operator="6" Value="50" FormulaID="-1" ItemKindA="6" ItemKindB="26" Rate="2500" Name="Increases Mana by %d" />
 		<Option ID="12" Number="5" Operator="6" Value="50" FormulaID="-1" ItemKindA="6" ItemKindB="26" Rate="2500" Name="Increases Life by %d" />
 	
 	<!-- Cape of Fighter options -->
-		<Option ID="13" Number="3" Operator="2" Value="3" FormulaID="-1" ItemKindA="6" ItemKindB="27" Rate="3333" Name="Increase chance of True Damage by %d%%" />
+		<Option ID="13" Number="3" Operator="2" Value="3"  FormulaID="-1" ItemKindA="6" ItemKindB="27" Rate="3333" Name="Increase chance of True Damage by %d%%" />
 		<Option ID="14" Number="4" Operator="6" Value="50" FormulaID="-1" ItemKindA="6" ItemKindB="27" Rate="3333" Name="Increases Mana by %d" />
 		<Option ID="15" Number="5" Operator="6" Value="50" FormulaID="-1" ItemKindA="6" ItemKindB="27" Rate="3334" Name="Increases Life by %d" />
 	
@@ -288,16 +288,16 @@
 	</Wings>
 	
 	<WingOptionEffect>
-		<Option ID="0" Etc="0" Rate="0" Attack="2" Defense="0" Life="0" Mana="0" Skill="0" /> 
-		<Option ID="1" Etc="0" Rate="0" Attack="0" Defense="0" Life="0" Mana="0" Skill="1" /> 
-		<Option ID="2" Etc="0" Rate="4" Attack="0" Defense="0" Life="0" Mana="0" Skill="0" /> 
-		<Option ID="3" Etc="0" Rate="0" Attack="0" Defense="0" Life="0" Mana="2" Skill="0" /> 
-		<Option ID="4" Etc="0" Rate="0" Attack="0" Defense="0" Life="2" Mana="0" Skill="0" /> 
-		<Option ID="5" Etc="0" Rate="6" Attack="0" Defense="0" Life="0" Mana="0" Skill="0" /> 
-		<Option ID="6" Etc="0" Rate="5" Attack="0" Defense="0" Life="0" Mana="0" Skill="0" /> 
-		<Option ID="7" Etc="0" Rate="7" Attack="0" Defense="0" Life="0" Mana="0" Skill="0" /> 
-		<Option ID="8" Etc="0" Rate="4" Attack="0" Defense="0" Life="0" Mana="0" Skill="0" /> 
-		<Option ID="9" Etc="0" Rate="0" Attack="0" Defense="0" Life="0" Mana="0" Skill="2" /> 
+		<Option ID="0"  Etc="0" Rate="0" Attack="2" Defense="0" Life="0" Mana="0" Skill="0" /> 
+		<Option ID="1"  Etc="0" Rate="0" Attack="0" Defense="0" Life="0" Mana="0" Skill="1" /> 
+		<Option ID="2"  Etc="0" Rate="4" Attack="0" Defense="0" Life="0" Mana="0" Skill="0" /> 
+		<Option ID="3"  Etc="0" Rate="0" Attack="0" Defense="0" Life="0" Mana="2" Skill="0" /> 
+		<Option ID="4"  Etc="0" Rate="0" Attack="0" Defense="0" Life="2" Mana="0" Skill="0" /> 
+		<Option ID="5"  Etc="0" Rate="6" Attack="0" Defense="0" Life="0" Mana="0" Skill="0" /> 
+		<Option ID="6"  Etc="0" Rate="5" Attack="0" Defense="0" Life="0" Mana="0" Skill="0" /> 
+		<Option ID="7"  Etc="0" Rate="7" Attack="0" Defense="0" Life="0" Mana="0" Skill="0" /> 
+		<Option ID="8"  Etc="0" Rate="4" Attack="0" Defense="0" Life="0" Mana="0" Skill="0" /> 
+		<Option ID="9"  Etc="0" Rate="0" Attack="0" Defense="0" Life="0" Mana="0" Skill="2" /> 
 		<Option ID="10" Etc="0" Rate="4" Attack="0" Defense="0" Life="0" Mana="0" Skill="0" />
 		<Option ID="11" Etc="0" Rate="0" Attack="0" Defense="0" Life="0" Mana="2" Skill="0" />
 		<Option ID="12" Etc="0" Rate="0" Attack="0" Defense="0" Life="2" Mana="0" Skill="0" />
@@ -319,18 +319,18 @@
 	</WingOptionEffect>
 	
 	<OptionDropRate>
-		<Common> <!-- Sum of the values must be equal to 10000 per row -->
-			<Kind A="1" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
-			<Kind A="2" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
-			<Kind A="3" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
-			<Kind A="4" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
-			<Kind A="14" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
-			<Kind A="15" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
-			<Kind A="18" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
+		<Common>  <!-- Sum of the values must be equal to 10000 per row -->
+			<Kind A="1" One="0" Two="6000" Three="4000" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
+			<Kind A="2" One="0" Two="6000" Three="4000" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
+			<Kind A="3" One="0" Two="6000" Three="4000" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
+			<Kind A="4" One="0" Two="6000" Three="4000" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
+			<Kind A="14" One="0" Two="6000" Three="4000" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
+			<Kind A="15" One="0" Two="6000" Three="4000" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
+			<Kind A="18" One="0" Two="6000" Three="4000" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
 		</Common>
 		<Wing>
 			<Kind A="6" B="24" Zero="8000" One="1500" Two="500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
-			<Kind A="6" B="25" Zero="9000" One="750" Two="250" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
+			<Kind A="6" B="25" Zero="0" One="8000" Two="2000" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
 			<Kind A="6" B="26" Zero="8000" One="1500" Two="500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
 			<Kind A="6" B="27" Zero="9000" One="750" Two="250" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
 			<Kind A="6" B="28" Zero="9900" One="75" Two="25" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
