@@ -46,8 +46,7 @@
 //~~ Note: Selected NPCs, such as Potion Girl or Mirage will not work with the speak system
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //
-//	MossMerchant: Defines a Moss Merchant Lottery Shop, only for NPC 492, should always be 1
-//	GuildMaster: Defines Flags Shop, only for NPC 241, should always be 1 (requires Flags System plugin)
+//	MossMerchant: defines a Moss Merchant Lottery Shop, only for NPC 492, should always be 1
 //	BattleCore: Defines a shop located on Battle Core server, if so set to 1
 //
 // ### Shops::TextList::Text ###
@@ -60,9 +59,10 @@
 <Shops>
 	<ShopList>
 	<!-- Lorencia -->
-		<Shop NPCIndex="230" MapNumber="0" PosX="114" PosY="120" Dir="3" VipType="-1" GMShop="0" FileName="NPC(230)_Wandering_Merchant_Alex.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
+		<Shop NPCIndex="230" MapNumber="0" PosX="118" PosY="142" Dir="3" VipType="-1" GMShop="1" FileName="NPC(230)_Wandering_Merchant_Alex.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
 		<Shop NPCIndex="250" MapNumber="0" PosX="183" PosY="137" Dir="2" VipType="-1" GMShop="0" FileName="NPC(250)_Wandering_Merchant_Herald.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
-		<Shop NPCIndex="251" MapNumber="0" PosX="116" PosY="141" Dir="3" VipType="-1" GMShop="0" FileName="NPC(251)_Hanzo_the_Blacksmith.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
+		<Shop NPCIndex="251" MapNumber="0" PosX="116" PosY="141" Dir="3" VipType="-1" GMShop="1" FileName="NPC(251)_Hanzo_the_Blacksmith.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
+		<Shop NPCIndex="253" MapNumber="0" PosX="137" PosY="134" Dir="2" VipType="-1" GMShop="0" FileName="NPC(253)_Potion_Girl_Amy.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
 		<Shop NPCIndex="253" MapNumber="0" PosX="127" PosY="86" Dir="2" VipType="-1" GMShop="0" FileName="NPC(253)_Potion_Girl_Amy.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
 		<Shop NPCIndex="254" MapNumber="0" PosX="118" PosY="113" Dir="3" VipType="-1" GMShop="0" FileName="NPC(254)_Pasi_the_Mage.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
 		<Shop NPCIndex="891" MapNumber="0" PosX="119" PosY="111" Dir="3" VipType="-1" GMShop="0" FileName="NPC(891)_Wizard_Gillard.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
@@ -73,7 +73,6 @@
 		<Shop NPCIndex="245" MapNumber="2" PosX="225" PosY="41" Dir="3" VipType="-1" GMShop="0" FileName="NPC(245)_Wizard_Izabel.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
 		<Shop NPCIndex="246" MapNumber="2" PosX="186" PosY="47" Dir="3" VipType="-1" GMShop="0" FileName="NPC(246)_Weapons_Merchant_Zienna.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
 		<Shop NPCIndex="379" MapNumber="2" PosX="32" PosY="31" Dir="3" VipType="-1" GMShop="0" FileName="NPC(379)_Natasha_Firecracker_Merchant.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
-		<Shop NPCIndex="241" MapNumber="2" PosX="215" PosY="45" Dir="1" VipType="-1" GMShop="0" GuildMaster="1" FileName="NPC(241)_Royal_Guard_Captain_Lorence.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
 	<!-- Noria -->
 		<Shop NPCIndex="242" MapNumber="3" PosX="173" PosY="125" Dir="1" VipType="-1" GMShop="0" FileName="NPC(242)_Elf_Lala.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
 		<Shop NPCIndex="243" MapNumber="3" PosX="195" PosY="124" Dir="2" VipType="-1" GMShop="0" FileName="NPC(243)_Eo_the_Craftsman.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
@@ -91,8 +90,8 @@
 		<Shop NPCIndex="376" MapNumber="30" PosX="90" PosY="44" Dir="1" VipType="-1" GMShop="0" FileName="NPC(376)_Pamela_the_Supplier.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
 		<Shop NPCIndex="377" MapNumber="30" PosX="89" PosY="218" Dir="3" VipType="-1" GMShop="0" FileName="NPC(377)_Angela_the_Supplier.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
 	<!-- Crywolf -->
-		<Shop NPCIndex="251" MapNumber="34" PosX="145" PosY="14" Dir="1" VipType="-1" GMShop="0" FileName="NPC(251)_Hanzo_the_Blacksmith.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
-		<Shop NPCIndex="248" MapNumber="34" PosX="99" PosY="40" Dir="2" VipType="-1" GMShop="0" FileName="NPC(248)_Wandering_Merchant_Martin.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
+		<!--<Shop NPCIndex="251" MapNumber="34" PosX="145" PosY="14" Dir="1" VipType="-1" GMShop="1" FileName="NPC(251)_Hanzo_the_Blacksmith.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
+		<Shop NPCIndex="248" MapNumber="34" PosX="99" PosY="40" Dir="2" VipType="-1" GMShop="0" FileName="NPC(248)_Wandering_Merchant_Martin.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />-->
 	<!-- Elbeland -->
 		<Shop NPCIndex="415" MapNumber="51" PosX="44" PosY="229" Dir="1" VipType="-1" GMShop="0" FileName="NPC(415)_Silvia.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
 		<Shop NPCIndex="416" MapNumber="51" PosX="29" PosY="236" Dir="2" VipType="-1" GMShop="0" FileName="NPC(416)_Rhea.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
