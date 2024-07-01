@@ -100,7 +100,7 @@
 -->	
 
 <OffLevelling Enable="1">
-	<General HitInterval="1000" ChargeInterval="3600" SelfBuffInterval="10" CoinType="0" CoinValue="100" MaxDuration="24" MaxVipDuration="48" ImmortalToPlayers="1" VipType="-1" ImmortalToMonsters="1" DisconnectAfterDeath="1" StayInSafeZoneAfterDeath="0" DisableMovement="0" DisableInfoAbovePlayer="1" AllowPersonalStore="0"/>
+	<General HitInterval="1000" ChargeInterval="3600" SelfBuffInterval="10" CoinType="0" CoinValue="100" MaxDuration="24" MaxVipDuration="48" ImmortalToPlayers="0" VipType="-1" ImmortalToMonsters="0" DisconnectAfterDeath="0" StayInSafeZoneAfterDeath="1" DisableMovement="0" DisableInfoAbovePlayer="1" AllowPersonalStore="0"/>
 	<Timing StartHour="0" StartMinute="0" EndHour="23" EndMinute="59" />
 
 	<PickItem Enable="1">
@@ -147,8 +147,8 @@
 		<Map Number="27" Disable="0" CoinType="-1" CoinValue="100" /> <!-- Kalima 4 -->
 		<Map Number="28" Disable="0" CoinType="-1" CoinValue="100" /> <!-- Kalima 5 -->
 		<Map Number="29" Disable="0" CoinType="-1" CoinValue="100" /> <!-- Kalima 6 -->
-		<Map Number="30" Disable="0" CoinType="-1" CoinValue="100" /> <!-- Valley of Loren -->
-		<Map Number="31" Disable="0" CoinType="-1" CoinValue="100" /> <!-- Land of Trials -->
+		<Map Number="30" Disable="1" CoinType="-1" CoinValue="100" /> <!-- Valley of Loren -->
+		<Map Number="31" Disable="1" CoinType="-1" CoinValue="100" /> <!-- Land of Trials -->
 		<Map Number="32" Disable="1" CoinType="-1" CoinValue="100" /> <!-- Devil Square (5 ~ 7) -->
 		<Map Number="33" Disable="0" CoinType="-1" CoinValue="100" /> <!-- Aida (1 ~ 2) -->
 		<Map Number="34" Disable="0" CoinType="-1" CoinValue="100" /> <!-- Crywolf Fortress (First Zone) -->
