@@ -104,11 +104,12 @@
 			<Spawn Index="257" Distance="0" StartX="132" StartY="165" Dir="3" />
 			<Spawn Index="257" Distance="0" StartX="132" StartY="90" Dir="3" />
 			<Spawn Index="257" Distance="0" StartX="170" StartY="129" Dir="1" />
-			<Spawn Index="543" Distance="0" StartX="144" StartY="127" Dir="3" /> <!-- Gens Duprian Steward -->
+			<Spawn Index="543" Distance="0" StartX="130" StartY="127" Dir="2" /> <!-- Gens Duprian Steward -->
 			<Spawn Index="547" Distance="0" StartX="139" StartY="138" Dir="3" /> <!-- Market Union Member Julia -->
 			<Spawn Index="584" Distance="0" StartX="114" StartY="132" Dir="3" /> <!-- Sir Lesnar -->
 			<Spawn Index="764" Distance="0" StartX="131" StartY="147" Dir="3" /> <!-- Cent (Town) -->	
 			<Spawn Index="375" Distance="0" StartX="132" StartY="161" Dir="2" /> <!-- Chaos Card Master -->
+			<Spawn Index="479" Distance="0" StartX="130" StartY="134" Dir="1" /> <!-- Doorkeeper Titus -->
 		</Spot>
 		<Spot Type="1" Description="Multi-Spawn">
 			<Spawn Index="3" Distance="30" StartX="180" StartY="90" EndX="226" EndY="244" Dir="-1" Count="45" /> <!-- Spider -->
@@ -2964,7 +2965,7 @@
 			<Spawn Index="209" Distance="0" StartX="117" StartY="27" Dir="2" /> <!-- Wolf Altar5 -->
 			<!-- <Spawn Index="248" Distance="0" StartX="99" StartY="40" Dir="2" /> --> <!-- Wandering Merchant Martin ~ shop managed via ShopList.xml -->
 			<Spawn Index="406" Distance="0" StartX="228" StartY="48" Dir="1" /> <!-- Apostle Devin -->
-			<Spawn Index="407" Distance="0" StartX="62" StartY="239" Dir="1" /> <!-- Werewolf Quarel -->
+			<Spawn Index="407" Distance="0" StartX="225" StartY="48" Dir="1" /> <!-- Werewolf Quarel -->
 		</Spot>
 		<Spot Type="2" Description="Single Point Monsters">
 			<Spawn Index="310" Distance="30" StartX="58" StartY="47" Dir="-1" /> <!-- Hammer Scout -->
@@ -9131,10 +9132,12 @@
 			<Spawn Index="837" Distance="4" StartX="76" StartY="30" Dir="-1" Element="2" />
 			<Spawn Index="837" Distance="4" StartX="161" StartY="25" Dir="-1" Element="2" />
 			<Spawn Index="839" Distance="3" StartX="183" StartY="208" Dir="-1" Element="1" /> <!--(Elite) Great Bahamut of Abyss-->
+			<Spawn Index="839" Distance="3" StartX="183" StartY="208" Dir="-1" Element="1" /> <!--(Elite) Great Bahamut of Abyss-->
 			<Spawn Index="839" Distance="3" StartX="131" StartY="28" Dir="4" Element="2" />
 			<Spawn Index="839" Distance="3" StartX="220" StartY="100" Dir="4" Element="4" />
 			<Spawn Index="839" Distance="3" StartX="39" StartY="94" Dir="2" Element="5" />
 			<Spawn Index="839" Distance="3" StartX="79" StartY="216" Dir="2" Element="3" />
+			<Spawn Index="840" Distance="3" StartX="187" StartY="211" Dir="-1" Element="1" /> <!--(Elite) Lizard King of Abyss-->
 			<Spawn Index="840" Distance="3" StartX="187" StartY="211" Dir="-1" Element="1" /> <!--(Elite) Lizard King of Abyss-->
 			<Spawn Index="840" Distance="3" StartX="134" StartY="26" Dir="3" Element="2" />
 			<Spawn Index="840" Distance="3" StartX="220" StartY="102" Dir="4" Element="4" />
@@ -9549,15 +9552,18 @@
 			<Spawn Index="847" Distance="4" StartX="112" StartY="55" Dir="-1" Element="2" />
 			<Spawn Index="847" Distance="4" StartX="181" StartY="14" Dir="-1" Element="2" />
 			<Spawn Index="848" Distance="4" StartX="226" StartY="131" Dir="5" Element="3" /> <!--(Elite) Scorched Warrior-->
+			<Spawn Index="848" Distance="4" StartX="226" StartY="131" Dir="5" Element="3" /> <!--(Elite) Scorched Warrior-->
 			<Spawn Index="848" Distance="4" StartX="216" StartY="227" Dir="7" Element="1" />
 			<Spawn Index="848" Distance="4" StartX="29" StartY="176" Dir="5" Element="5" />
 			<Spawn Index="848" Distance="4" StartX="23" StartY="99" Dir="3" Element="4" />
 			<Spawn Index="848" Distance="4" StartX="47" StartY="47" Dir="1" Element="2" />
 			<Spawn Index="849" Distance="4" StartX="228" StartY="134" Dir="5" Element="3" /> <!--(Elite) Scorched Assassins-->
+			<Spawn Index="849" Distance="4" StartX="228" StartY="134" Dir="5" Element="3" /> <!--(Elite) Scorched Assassins-->
 			<Spawn Index="849" Distance="4" StartX="213" StartY="232" Dir="7" Element="1" />
 			<Spawn Index="849" Distance="4" StartX="31" StartY="180" Dir="5" Element="5" />
 			<Spawn Index="849" Distance="4" StartX="22" StartY="93" Dir="3" Element="4" />
 			<Spawn Index="849" Distance="4" StartX="52" StartY="48" Dir="1" Element="2" />
+			<Spawn Index="850" Distance="4" StartX="226" StartY="134" Dir="5" Element="3" /> <!--(Elite) Scorched Wizard-->
 			<Spawn Index="850" Distance="4" StartX="226" StartY="134" Dir="5" Element="3" /> <!--(Elite) Scorched Wizard-->
 			<Spawn Index="850" Distance="4" StartX="212" StartY="228" Dir="7" Element="1" />
 			<Spawn Index="850" Distance="4" StartX="26" StartY="178" Dir="5" Element="5" />
@@ -9985,6 +9991,7 @@
 			<Spawn Index="863" Distance="3" StartX="219" StartY="223" Dir="8" Element="4" />
 			<Spawn Index="863" Distance="3" StartX="213" StartY="226" Dir="8" Element="4" />
 			<Spawn Index="864" Distance="3" StartX="56" StartY="205" Dir="2" Element="2" /> <!--(864) (Elite) Great Drakan [Lv.100]-->
+			<Spawn Index="864" Distance="3" StartX="56" StartY="205" Dir="2" Element="2" /> <!--(864) (Elite) Great Drakan [Lv.100]-->
 			<Spawn Index="864" Distance="3" StartX="57" StartY="210" Dir="2" Element="2" />
 			<Spawn Index="864" Distance="3" StartX="193" StartY="98" Dir="2" Element="5" />
 			<Spawn Index="864" Distance="3" StartX="193" StartY="103" Dir="2" Element="5" />
@@ -9995,10 +10002,12 @@
 			<Spawn Index="864" Distance="3" StartX="40" StartY="22" Dir="4" Element="1" />
 			<Spawn Index="864" Distance="3" StartX="45" StartY="23" Dir="4" Element="1" />
 			<Spawn Index="865" Distance="3" StartX="50" StartY="207" Dir="2" Element="2" /> <!--(865) (Elite) Phoenix of Darkness [Lv.108]-->
+			<Spawn Index="865" Distance="3" StartX="50" StartY="207" Dir="2" Element="2" /> <!--(865) (Elite) Phoenix of Darkness [Lv.108]-->
 			<Spawn Index="865" Distance="3" StartX="187" StartY="100" Dir="2" Element="5" />
 			<Spawn Index="865" Distance="3" StartX="146" StartY="209" Dir="2" Element="4" />
 			<Spawn Index="865" Distance="3" StartX="157" StartY="22" Dir="2" Element="3" />
 			<Spawn Index="865" Distance="3" StartX="41" StartY="16" Dir="4" Element="1" />
+			<Spawn Index="866" Distance="0" StartX="79" StartY="203" Dir="2" Element="2" /> <!--(866) Elite Zone Flag [Lv.1]-->
 			<Spawn Index="866" Distance="0" StartX="79" StartY="203" Dir="2" Element="2" /> <!--(866) Elite Zone Flag [Lv.1]-->
 			<Spawn Index="866" Distance="0" StartX="215" StartY="117" Dir="4" Element="5" />
 			<Spawn Index="866" Distance="0" StartX="178" StartY="205" Dir="2" Element="4" />
@@ -10026,6 +10035,8 @@
 			<Spawn Index="870" Distance="4" StartX="141" StartY="226" Dir="2" Element="4" /> <!--(Elite Wind)  (Elite) Temple Ogre -->
 			<Spawn Index="870" Distance="4" StartX="42" StartY="62" Dir="2" Element="5" /> <!--(Elite Darkness) (Elite) Temple Ogre -->
 			<Spawn Index="870" Distance="4" StartX="42" StartY="62" Dir="2" Element="5" /> <!--(Elite Darkness) (Elite) Temple Ogre -->
+			<Spawn Index="870" Distance="4" StartX="42" StartY="62" Dir="2" Element="5" /> <!--(Elite Darkness) (Elite) Temple Ogre -->
+			<Spawn Index="870" Distance="4" StartX="42" StartY="62" Dir="2" Element="5" /> <!--(Elite Darkness) (Elite) Temple Ogre -->
 			<!-- # Elite Monsters # -->
 			<Spawn Index="871" Distance="4" StartX="73" StartY="177" Dir="4" Element="1" /> <!--(Elite Fire)  (Elite) Temple Gremlin -->
 			<Spawn Index="871" Distance="4" StartX="70" StartY="168" Dir="4" Element="1" /> <!--(Elite Fire)  (Elite) Temple Gremlin -->
@@ -10037,11 +10048,19 @@
 			<Spawn Index="871" Distance="4" StartX="161" StartY="231" Dir="2" Element="4" /> <!--(Elite Wind)  (Elite) Temple Gremlin -->
 			<Spawn Index="871" Distance="4" StartX="44" StartY="50" Dir="2" Element="5" /> <!--(Elite Darkness) (Elite) Temple Gremlin -->
 			<Spawn Index="871" Distance="4" StartX="44" StartY="50" Dir="2" Element="5" /> <!--(Elite Darkness) (Elite) Temple Gremlin -->	
+			<Spawn Index="871" Distance="4" StartX="44" StartY="50" Dir="2" Element="5" /> <!--(Elite Darkness) (Elite) Temple Gremlin -->	
+			<Spawn Index="871" Distance="4" StartX="44" StartY="50" Dir="2" Element="5" /> <!--(Elite Darkness) (Elite) Temple Gremlin -->	
+			<Spawn Index="871" Distance="4" StartX="44" StartY="50" Dir="2" Element="5" /> <!--(Elite Darkness) (Elite) Temple Gremlin -->	
+			<Spawn Index="871" Distance="4" StartX="44" StartY="50" Dir="2" Element="5" /> <!--(Elite Darkness) (Elite) Temple Gremlin -->	
 			<!-- # Elite Monsters # -->
 			<Spawn Index="872" Distance="4" StartX="77" StartY="154" Dir="4" Element="1" /> <!--(Elite Fire)  (Elite) Temple Gargoyle -->
 			<Spawn Index="872" Distance="4" StartX="187" StartY="113" Dir="2" Element="2" /> <!--(Elite Water) (Elite) Temple Gargoyle -->
 			<Spawn Index="872" Distance="4" StartX="218" StartY="38" Dir="2" Element="3" /> <!--(Elite Earth) (Elite) Temple Gargoyle -->
 			<Spawn Index="872" Distance="4" StartX="175" StartY="226" Dir="2" Element="4" /> <!--(Elite Wind)  (Elite) Temple Gargoyle -->
+			<Spawn Index="872" Distance="4" StartX="50" StartY="39" Dir="2" Element="5" /> <!--(Elite Darkness) (Elite) Temple Gargoyle -->
+			<Spawn Index="872" Distance="4" StartX="50" StartY="39" Dir="2" Element="5" /> <!--(Elite Darkness) (Elite) Temple Gargoyle -->
+			<Spawn Index="872" Distance="4" StartX="50" StartY="39" Dir="2" Element="5" /> <!--(Elite Darkness) (Elite) Temple Gargoyle -->
+			<Spawn Index="872" Distance="4" StartX="50" StartY="39" Dir="2" Element="5" /> <!--(Elite Darkness) (Elite) Temple Gargoyle -->
 			<Spawn Index="872" Distance="4" StartX="50" StartY="39" Dir="2" Element="5" /> <!--(Elite Darkness) (Elite) Temple Gargoyle -->
 		</Spot>
 		<Spot Type="3" Description="Multi-Spawn Elemental Monsters">
@@ -10272,6 +10291,8 @@
 			<Spawn Index="878" Distance="4" StartX="168" StartY="173" Dir="2" Element="3" />
 			<Spawn Index="878" Distance="4" StartX="187" StartY="169" Dir="2" Element="3" />
 			<Spawn Index="879" Distance="4" StartX="20" StartY="56" Dir="4" Element="1" /> <!--(879) (Elite) Ashy Golem [Lv.560]-->
+			<Spawn Index="879" Distance="4" StartX="20" StartY="56" Dir="4" Element="1" /> <!--(879) (Elite) Ashy Golem [Lv.560]-->
+			<Spawn Index="879" Distance="4" StartX="20" StartY="56" Dir="4" Element="1" /> <!--(879) (Elite) Ashy Golem [Lv.560]-->
 			<Spawn Index="879" Distance="4" StartX="21" StartY="57" Dir="4" Element="1" />
 			<Spawn Index="879" Distance="4" StartX="226" StartY="131" Dir="2" Element="5" />
 			<Spawn Index="879" Distance="4" StartX="226" StartY="130" Dir="2" Element="5" />
@@ -10284,6 +10305,7 @@
 			<Spawn Index="879" Distance="4" StartX="181" StartY="165" Dir="4" Element="3" />
 			<Spawn Index="879" Distance="4" StartX="185" StartY="164" Dir="4" Element="3" />
 			<Spawn Index="879" Distance="4" StartX="229" StartY="132" Dir="2" Element="5" />
+			<Spawn Index="880" Distance="4" StartX="31" StartY="82" Dir="4" Element="1" /> <!--(880) (Elite) Ashy Bloody Witch Queen [Lv.560]-->
 			<Spawn Index="880" Distance="4" StartX="31" StartY="82" Dir="4" Element="1" /> <!--(880) (Elite) Ashy Bloody Witch Queen [Lv.560]-->
 			<Spawn Index="880" Distance="4" StartX="32" StartY="81" Dir="4" Element="1" />
 			<Spawn Index="880" Distance="4" StartX="242" StartY="104" Dir="2" Element="5" />
@@ -10735,6 +10757,7 @@
 			<Spawn Index="897" Distance="30" StartX="125" StartY="104" Dir="-1" Element="6" />
 			<Spawn Index="897" Distance="30" StartX="123" StartY="103" Dir="-1" Element="6" />
 			<Spawn Index="898" Distance="30" StartX="161" StartY="12" Dir="-1" Element="3" /> <!--(898) (Elite) Crimson Lycan [Lv.590]-->
+			<Spawn Index="898" Distance="30" StartX="161" StartY="12" Dir="-1" Element="3" /> <!--(898) (Elite) Crimson Lycan [Lv.590]-->
 			<Spawn Index="898" Distance="30" StartX="196" StartY="102" Dir="-1" Element="1" />
 			<Spawn Index="898" Distance="30" StartX="232" StartY="147" Dir="-1" Element="1" />
 			<Spawn Index="898" Distance="30" StartX="61" StartY="15" Dir="-1" Element="4" />
@@ -10749,6 +10772,7 @@
 			<Spawn Index="898" Distance="30" StartX="121" StartY="213" Dir="-1" Element="5" />
 			<Spawn Index="898" Distance="30" StartX="94" StartY="197" Dir="-1" Element="5" />
 			<Spawn Index="898" Distance="30" StartX="125" StartY="172" Dir="-1" Element="5" />
+			<Spawn Index="899" Distance="30" StartX="166" StartY="11" Dir="-1" Element="3" /> <!--(899) (Elite) Crimson Minos [Lv.590]-->
 			<Spawn Index="899" Distance="30" StartX="166" StartY="11" Dir="-1" Element="3" /> <!--(899) (Elite) Crimson Minos [Lv.590]-->
 			<Spawn Index="899" Distance="30" StartX="236" StartY="14" Dir="-1" Element="3" />
 			<Spawn Index="899" Distance="30" StartX="242" StartY="16" Dir="-1" Element="3" />
@@ -10775,6 +10799,7 @@
 			<Spawn Index="899" Distance="30" StartX="83" StartY="133" Dir="-1" Element="2" />
 			<Spawn Index="899" Distance="30" StartX="35" StartY="165" Dir="-1" Element="2" />
 			<Spawn Index="899" Distance="30" StartX="32" StartY="164" Dir="-1" Element="2" />
+			<Spawn Index="900" Distance="30" StartX="228" StartY="65" Dir="-1" Element="3" /> <!--(900) (Elite) Crimson Harpy [Lv.590]-->
 			<Spawn Index="900" Distance="30" StartX="228" StartY="65" Dir="-1" Element="3" /> <!--(900) (Elite) Crimson Harpy [Lv.590]-->
 			<Spawn Index="900" Distance="30" StartX="184" StartY="70" Dir="-1" Element="3" />
 			<Spawn Index="900" Distance="30" StartX="162" StartY="9" Dir="-1" Element="3" />
@@ -11605,6 +11630,37 @@
 			<Spawn Index="907" Distance="10" StartX="111" StartY="176" Dir="-1" Element="2" />
 			<!--(907) Underground Dreadfear [Lv.620]-->
 			<Spawn Index="907" Distance="10" StartX="111" StartY="184" Dir="-1" Element="2" />
+			<!--(908) (Elite) Underground Persona [Lv.620]-->
+			<Spawn Index="908" Distance="10" StartX="20" StartY="36" Dir="-1" Element="1" />
+			<!--(908) (Elite) Underground Persona [Lv.620]-->
+			<Spawn Index="908" Distance="10" StartX="20" StartY="235" Dir="-1" Element="2" />
+			<!--(908) (Elite) Underground Persona [Lv.620]-->
+			<Spawn Index="908" Distance="10" StartX="99" StartY="12" Dir="-1" Element="3" />
+			<!--(908) (Elite) Underground Persona [Lv.620]-->
+			<Spawn Index="908" Distance="10" StartX="206" StartY="8" Dir="-1" Element="5" />
+			<!--(909) (Elite) Underground Twin Tale [Lv.620]-->
+			<Spawn Index="909" Distance="10" StartX="15" StartY="34" Dir="-1" Element="1" />
+			<!--(909) (Elite) Underground Twin Tale [Lv.620]-->
+			<Spawn Index="909" Distance="10" StartX="24" StartY="234" Dir="-1" Element="2" />
+			<!--(909) (Elite) Underground Twin Tale [Lv.620]-->
+			<Spawn Index="909" Distance="10" StartX="229" StartY="241" Dir="-1" Element="4" />
+			<!--(909) (Elite) Underground Twin Tale [Lv.620]-->
+			<Spawn Index="909" Distance="10" StartX="222" StartY="240" Dir="-1" Element="4" />
+			<!--(910) (Elite) Underground Dreadfear [Lv.620]-->
+			<Spawn Index="910" Distance="10" StartX="18" StartY="32" Dir="-1" Element="1" />
+			<!--(910) (Elite) Underground Dreadfear [Lv.620]-->
+			<Spawn Index="910" Distance="10" StartX="15" StartY="234" Dir="-1" Element="2" />
+			<!--(910) (Elite) Underground Dreadfear [Lv.620]-->
+			<Spawn Index="910" Distance="10" StartX="100" StartY="17" Dir="-1" Element="3" />
+			<!--(910) (Elite) Underground Dreadfear [Lv.620]-->
+			<Spawn Index="910" Distance="10" StartX="97" StartY="16" Dir="-1" Element="3" />
+			<!--(910) (Elite) Underground Dreadfear [Lv.620]-->
+			<Spawn Index="910" Distance="10" StartX="237" StartY="239" Dir="-1" Element="4" />
+			<!--(910) (Elite) Underground Dreadfear [Lv.620]-->
+			<Spawn Index="910" Distance="10" StartX="210" StartY="8" Dir="-1" Element="5" />
+			<!--(910) (Elite) Underground Dreadfear [Lv.620]-->
+			<Spawn Index="910" Distance="10" StartX="210" StartY="11" Dir="-1" Element="5" />
+			
 			<!--(908) (Elite) Underground Persona [Lv.620]-->
 			<Spawn Index="908" Distance="10" StartX="20" StartY="36" Dir="-1" Element="1" />
 			<!--(908) (Elite) Underground Persona [Lv.620]-->
@@ -12873,6 +12929,52 @@
 			<Spawn Index="932" Distance="2" StartX="241" StartY="211" Dir="-1" Element="2" />
 			<!--(932) (Elite) Bloody Tantalus [Lv.680]-->
 			<Spawn Index="932" Distance="2" StartX="241" StartY="216" Dir="-1" Element="2" />
+			<!--(930) (Elite) Bloody Wolf of Fresh Blood [Lv.678]-->
+			<Spawn Index="930" Distance="2" StartX="236" StartY="28" Dir="-1" Element="5" />
+			<!--(930) (Elite) Bloody Wolf of Fresh Blood [Lv.678]-->
+			<Spawn Index="930" Distance="2" StartX="21" StartY="56" Dir="-1" Element="1" />
+			<!--(930) (Elite) Bloody Wolf of Fresh Blood [Lv.678]-->
+			<Spawn Index="930" Distance="2" StartX="76" StartY="109" Dir="-1" Element="3" />
+			<!--(930) (Elite) Bloody Wolf of Fresh Blood [Lv.678]-->
+			<Spawn Index="930" Distance="2" StartX="19" StartY="222" Dir="-1" Element="4" />
+			<!--(930) (Elite) Bloody Wolf of Fresh Blood [Lv.678]-->
+			<Spawn Index="930" Distance="2" StartX="25" StartY="222" Dir="-1" Element="4" />
+			<!--(930) (Elite) Bloody Wolf of Fresh Blood [Lv.678]-->
+			<Spawn Index="930" Distance="2" StartX="237" StartY="214" Dir="-1" Element="2" />
+			<!--(931) (Elite) Bloody Beam Knight [Lv.680]-->
+			<Spawn Index="931" Distance="2" StartX="240" StartY="26" Dir="-1" Element="5" />
+			<!--(931) (Elite) Bloody Beam Knight [Lv.680]-->
+			<Spawn Index="931" Distance="2" StartX="18" StartY="52" Dir="-1" Element="1" />
+			<!--(931) (Elite) Bloody Beam Knight [Lv.680]-->
+			<Spawn Index="931" Distance="2" StartX="77" StartY="116" Dir="-1" Element="3" />
+			<!--(931) (Elite) Bloody Beam Knight [Lv.680]-->
+			<Spawn Index="931" Distance="2" StartX="79" StartY="109" Dir="-1" Element="3" />
+			<!--(931) (Elite) Bloody Beam Knight [Lv.680]-->
+			<Spawn Index="931" Distance="2" StartX="21" StartY="218" Dir="-1" Element="4" />
+			<!--(931) (Elite) Bloody Beam Knight [Lv.680]-->
+			<Spawn Index="931" Distance="2" StartX="21" StartY="224" Dir="-1" Element="4" />
+			<!--(931) (Elite) Bloody Beam Knight [Lv.680]-->
+			<Spawn Index="931" Distance="2" StartX="238" StartY="210" Dir="-1" Element="2" />
+			<!--(931) (Elite) Bloody Beam Knight [Lv.680]-->
+			<Spawn Index="931" Distance="2" StartX="238" StartY="216" Dir="-1" Element="2" />
+			<!--(932) (Elite) Bloody Tantalus [Lv.680]-->
+			<Spawn Index="932" Distance="2" StartX="236" StartY="24" Dir="-1" Element="5" />
+			<!--(932) (Elite) Bloody Tantalus [Lv.680]-->
+			<Spawn Index="932" Distance="2" StartX="15" StartY="53" Dir="-1" Element="1" />
+			<!--(932) (Elite) Bloody Tantalus [Lv.680]-->
+			<Spawn Index="932" Distance="2" StartX="18" StartY="58" Dir="-1" Element="1" />
+			<!--(932) (Elite) Bloody Tantalus [Lv.680]-->
+			<Spawn Index="932" Distance="2" StartX="73" StartY="104" Dir="-1" Element="3" />
+			<!--(932) (Elite) Bloody Tantalus [Lv.680]-->
+			<Spawn Index="932" Distance="2" StartX="71" StartY="108" Dir="-1" Element="3" />
+			<!--(932) (Elite) Bloody Tantalus [Lv.680]-->
+			<Spawn Index="932" Distance="2" StartX="17" StartY="218" Dir="-1" Element="4" />
+			<!--(932) (Elite) Bloody Tantalus [Lv.680]-->
+			<Spawn Index="932" Distance="2" StartX="16" StartY="223" Dir="-1" Element="4" />
+			<!--(932) (Elite) Bloody Tantalus [Lv.680]-->
+			<Spawn Index="932" Distance="2" StartX="241" StartY="211" Dir="-1" Element="2" />
+			<!--(932) (Elite) Bloody Tantalus [Lv.680]-->
+			<Spawn Index="932" Distance="2" StartX="241" StartY="216" Dir="-1" Element="2" />
 		</Spot>
 	</Map>
 	<Map Number="141" Name="Tormenta Island">
@@ -13271,6 +13373,21 @@
 			<Spawn Index="944" Dir="-1" Distance="2" StartX="238" StartY="155" Element="1" />
 			<Spawn Index="944" Dir="-1" Distance="2" StartX="242" StartY="138" Element="1" />
 			<Spawn Index="944" Dir="-1" Distance="2" StartX="243" StartY="133" Element="1" />
+			<!--[945] (Elite) Storm Guard (Lv. 700)-->
+			<Spawn Index="945" Dir="-1" Distance="2" StartX="205" StartY="32" Element="4" />
+			<Spawn Index="945" Dir="-1" Distance="2" StartX="80" StartY="17" Element="5" />
+			<Spawn Index="945" Dir="-1" Distance="2" StartX="78" StartY="241" Element="5" />
+			<Spawn Index="945" Dir="-1" Distance="2" StartX="218" StartY="223" Element="1" />
+			<!--[946] (Elite) Storm Reaper (Lv. 705)-->
+			<Spawn Index="946" Dir="-1" Distance="2" StartX="203" StartY="34" Element="4" />
+			<Spawn Index="946" Dir="-1" Distance="2" StartX="83" StartY="14" Element="5" />
+			<Spawn Index="946" Dir="-1" Distance="2" StartX="85" StartY="242" Element="2" />
+			<Spawn Index="946" Dir="-1" Distance="2" StartX="215" StartY="219" Element="1" />
+			<!--[947] (Elite) Storm Fiend (Lv. 710)-->
+			<Spawn Index="947" Dir="-1" Distance="2" StartX="201" StartY="32" Element="4" />
+			<Spawn Index="947" Dir="-1" Distance="2" StartX="83" StartY="11" Element="5" />
+			<Spawn Index="947" Dir="-1" Distance="2" StartX="86" StartY="245" Element="2" />
+			<Spawn Index="947" Dir="-1" Distance="2" StartX="220" StartY="221" Element="1" />
 			<!--[945] (Elite) Storm Guard (Lv. 700)-->
 			<Spawn Index="945" Dir="-1" Distance="2" StartX="205" StartY="32" Element="4" />
 			<Spawn Index="945" Dir="-1" Distance="2" StartX="80" StartY="17" Element="5" />

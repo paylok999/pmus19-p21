@@ -83,6 +83,8 @@
 <MonsterGroupRegenSystem SpawnNotice="1" MonsterKillRewardType="1">
 	<GroupSettings>
 		<Group Enable="1" Index="0" Duration="60" MapNumber="56" BossMonsterIndex="561" BossMonsterName="Medusa" AllowMove="0" SpawnNotice="Medusa and her assistants has invaded Swamp of Clamness!!!" DespawnNotice="Medusa and her assistants are gone" PreNotice="Medusa will spawn in %d Minutes" />
+		<Group Enable="1" Index="1" Duration="60" MapNumber="63" BossMonsterIndex="561" BossMonsterName="KundunIllusion" AllowMove="0" SpawnNotice="Kundun has invaded Vulcanus!!!" DespawnNotice="Kundun are gone" PreNotice="Kundun Boss will spawn in %d Minutes (Vulcanus: 64,163)" />
+		<Group Enable="1" Index="2" Duration="60" MapNumber="63" BossMonsterIndex="480" BossMonsterName="VulcanusMinions" AllowMove="0" SpawnNotice="Vulcanus minions invaded Vulcanus!!!" DespawnNotice="Vulcanus Minions are gone" PreNotice="Vulcanus Minions will spawn in %d Minutes (Random Coordinates)" />
 	</GroupSettings>
  
 	<SpotSettings>
@@ -92,6 +94,17 @@
 			<Area StartX="149" StartY="10"  EndX="162" EndY="19" />
 			<Area StartX="178" StartY="114" EndX="184" EndY="129" />
 		</Group>
+		
+		<Group Index="1">
+			<Area StartX="66"  StartY="161" EndX="64"  EndY="163" />
+		</Group>
+		
+		<Group Index="2">
+			<Area StartX="126"  StartY="210" EndX="195"  EndY="178" />
+			<Area StartX="92"  StartY="158" EndX="33"  EndY="220" />
+			<Area StartX="33"  StartY="154" EndX="34"  EndY="86" />
+			<Area StartX="49"  StartY="43" EndX="96"  EndY="31" />
+		</Group>
 	</SpotSettings>
  
 	<MonsterSettings>
@@ -99,11 +112,36 @@
 			<Monster Index="561" MoveRange="10" SpawnType="0" Count="1" OverrideDefaultSettings="1" EventID="150" HP="15000000" DamageMin="1000" DamageMax="1500" Defense="550" AttackRate="2000" DefenseRate="2000" SendKillNotice="1" KillNotice="[MEDUSA] %s killed Medusa! [%d] of [%d]" />
 			<Monster Index="560" MoveRange="10" SpawnType="0" Count="7" OverrideDefaultSettings="1" EventID="151" HP="150000" DamageMin="100" DamageMax="150" Defense="150" AttackRate="1000" DefenseRate="1000" SendKillNotice="1" KillNotice="[MEDUSA] %s killed Medusa assistant! [%d] of [%d]" />
 		</Group>
+		<Group Index="1">
+			<Monster Index="919" MoveRange="10" SpawnType="0" Count="3" OverrideDefaultSettings="1" EventID="152" HP="400000000" DamageMin="2000" DamageMax="2500" Defense="1500" AttackRate="2000" DefenseRate="1000" SendKillNotice="1" KillNotice="[Kundun Boss] %s killed! [%d] of [%d]" />
+		</Group>
+		<Group Index="2">
+			<Monster Index="481" MoveRange="10" SpawnType="1" Count="2" OverrideDefaultSettings="1" EventID="153" HP="150000000" DamageMin="2000" DamageMax="2500" Defense="1500" AttackRate="2000" DefenseRate="1000" SendKillNotice="1" KillNotice="[Zombie Fighter] %s killed! [%d] of [%d]" />
+			<Monster Index="483" MoveRange="10" SpawnType="1" Count="2" OverrideDefaultSettings="1" EventID="153" HP="150000000" DamageMin="2000" DamageMax="2500" Defense="1500" AttackRate="2000" DefenseRate="1000" SendKillNotice="1" KillNotice="[Resurrected Gladiator ] %s killed! [%d] of [%d]" />
+			<Monster Index="485" MoveRange="10" SpawnType="1" Count="2" OverrideDefaultSettings="1" EventID="153" HP="150000000" DamageMin="2000" DamageMax="2500" Defense="1500" AttackRate="2000" DefenseRate="1000" SendKillNotice="1" KillNotice="[Ash Slaughterer] %s killed! [%d] of [%d]" />
+			<Monster Index="488" MoveRange="10" SpawnType="1" Count="2" OverrideDefaultSettings="1" EventID="153" HP="150000000" DamageMin="2000" DamageMax="2500" Defense="1500" AttackRate="2000" DefenseRate="1000" SendKillNotice="1" KillNotice="[Cruel Blood Assassin] %s killed! [%d] of [%d]" />
+			<Monster Index="491" MoveRange="10" SpawnType="1" Count="2" OverrideDefaultSettings="1" EventID="153" HP="150000000" DamageMin="2000" DamageMax="2500" Defense="1500" AttackRate="2000" DefenseRate="1000" SendKillNotice="1" KillNotice="[Ruthless Lava Giant] %s killed! [%d] of [%d]" />
+		</Group>
 	</MonsterSettings>
  
 	<SpawnSettings>
 		<Group Index="0">
-			<Spawn DayOfMonth="-1" DayOfWeek="-1" Hour="11" Minute="8" AppearanceRate="100" />
+			<Spawn DayOfMonth="-1" DayOfWeek="-1" Hour="19" Minute="0" AppearanceRate="100" />
+			<Spawn DayOfMonth="-1" DayOfWeek="-1" Hour="7" Minute="0" AppearanceRate="100" />
+		</Group> 
+		
+		<Group Index="1">
+			<Spawn DayOfMonth="-1" DayOfWeek="-1" Hour="19" Minute="0" AppearanceRate="100" />
+			<Spawn DayOfMonth="-1" DayOfWeek="-1" Hour="7" Minute="0" AppearanceRate="100" />
+		</Group> 
+		
+		<Group Index="2">
+			<Spawn DayOfMonth="-1" DayOfWeek="-1" Hour="1" Minute="0" AppearanceRate="100" />
+			<Spawn DayOfMonth="-1" DayOfWeek="-1" Hour="6" Minute="0" AppearanceRate="100" />
+			<Spawn DayOfMonth="-1" DayOfWeek="-1" Hour="11" Minute="0" AppearanceRate="100" />
+			<Spawn DayOfMonth="-1" DayOfWeek="-1" Hour="13" Minute="0" AppearanceRate="100" />
+			<Spawn DayOfMonth="-1" DayOfWeek="-1" Hour="18" Minute="0" AppearanceRate="100" />
+			<Spawn DayOfMonth="-1" DayOfWeek="-1" Hour="23" Minute="0" AppearanceRate="100" />
 		</Group> 
 	</SpawnSettings>
 </MonsterGroupRegenSystem>
