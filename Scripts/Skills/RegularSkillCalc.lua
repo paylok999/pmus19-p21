@@ -1140,7 +1140,7 @@ end
 -- SkillID: X, Blindness - (BuffEffectManager.xml -> Index: 242)
 function BlindingBuffCalcSuccessAndTime(CharacterLevel)
 	local SuccessRate = 10
-	local Duration = CharacterLevel / 4 + 20
+	local Duration = 30
 
 	if (SuccessRate > 100) then
 		SuccessRate = 100

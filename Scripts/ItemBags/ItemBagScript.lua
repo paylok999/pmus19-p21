@@ -143,6 +143,12 @@ function LoadItemBag() -- Bags Load
 	AddItemBag(BAG_DROP, MakeItemID(14,11), 12,'Item_(14,11,12)_Kundun_Box+5') -- DropFunction /1/
 	AddItemBag(BAG_DROP, MakeItemID(14,45), 0, 'Item_(14,45,0)_Pumpkin_of_Luck') -- DropFunction /1/
 	AddItemBag(BAG_DROP, MakeItemID(14,52), 0, 'Item_(14,52,0)_GM_Gift_Box') -- DropFunction /1/
+	AddItemBag(BAG_DROP, MakeItemID(14,52), 1, 'Item_(14,52,1)_GM_Gift_Box') -- DropFunction /1/
+	AddItemBag(BAG_DROP, MakeItemID(14,52), 2, 'Item_(14,52,2)_GM_Gift_Box') -- DropFunction /1/
+	AddItemBag(BAG_DROP, MakeItemID(14,52), 3, 'Item_(14,52,3)_GM_Gift_Box') -- DropFunction /1/
+	AddItemBag(BAG_DROP, MakeItemID(14,52), 4, 'Item_(14,52,4)_GM_Gift_Box') -- DropFunction /1/
+	AddItemBag(BAG_DROP, MakeItemID(14,52), 5, 'Item_(14,52,5)_GM_Gift_Box') -- DropFunction /1/
+	AddItemBag(BAG_DROP, MakeItemID(14,52), 6, 'Item_(14,52,6)_GM_Gift_Box') -- DropFunction /1/
 	AddItemBag(BAG_DROP, MakeItemID(14,55), 0, 'Item_(14,55,0)_Green_Chaos_Box') -- DropFunction /1/
 	AddItemBag(BAG_DROP, MakeItemID(14,56), 0, 'Item_(14,56,0)_Red_Chaos_Box') -- DropFunction /1/
 	AddItemBag(BAG_DROP, MakeItemID(14,57), 0, 'Item_(14,57,0)_Purple_Chaos_Box') -- DropFunction /1/
@@ -260,6 +266,7 @@ function LoadItemBag() -- Bags Load
 	AddItemBag(BAG_INVENTORY, MakeItemID(14,442),0, 'Item_(14,442,0)_Shiny_Earring_Box_(Left)') -- DropFunction /4/
 	AddItemBag(BAG_INVENTORY, MakeItemID(14,443),0, 'Item_(14,443,0)_Shiny_Earring_Box_(Right)') -- DropFunction /4/
 	AddItemBag(BAG_INVENTORY, MakeItemID(14,445),0, 'Item_(14,445,0)_Box_of_Blessing') -- DropFunction /4/
+	--AddItemBag(BAG_INVENTORY, MakeItemID(14,445),0, 'Item_(14,445,0)_Box_of_Blessing') -- DropFunction /4/
 	AddItemBag(BAG_INVENTORY, MakeItemID(14,447),0, 'Item_(14,447,0)_Ruud_Box_(2000)') -- DropFunction /4/
 	AddItemBag(BAG_INVENTORY, MakeItemID(14,448),0, 'Item_(14,448,0)_Ruud_Box_(3000)') -- DropFunction /4/
 	-- AddItemBag(BAG_INVENTORY, MakeItemID(14,455),0, 'Item_(14,455,0)_Small_Gift_Box') -- DropFunction /4/
@@ -302,6 +309,22 @@ function LoadItemBag() -- Bags Load
 	AddItemBag(BAG_INVENTORY, MakeItemID(20,145),0, 'Item_(20,145,0)_Tempest_Muun_Egg_(Wide)') -- DropFunction /4/
 	AddItemBag(BAG_INVENTORY, MakeItemID(20,146),0, 'Item_(20,146,0)_Tempest_Muun_Box_(Wide)') -- DropFunction /4/
 	AddItemBag(BAG_INVENTORY, MakeItemID(20,147),0, 'Item_(20,147,0)_Tempest_Muun_Evolution_Stone_Box_(Wide)') -- DropFunction /4/
+	
+	--freebies
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,72),1, 'Item_(20,72,1)_Blood_Angel_Armor_Box_BM') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,72),2, 'Item_(20,72,2)_Blood_Angel_Armor_Box_WZ') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,72),3, 'Item_(20,72,3)_Blood_Angel_Armor_Box_ELF') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,72),4, 'Item_(20,72,4)_Blood_Angel_Armor_Box_MG') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,72),5, 'Item_(20,72,5)_Blood_Angel_Armor_Box_DL') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,72),6, 'Item_(20,72,6)_Blood_Angel_Armor_Box_SUM') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,72),7, 'Item_(20,72,7)_Blood_Angel_Armor_Box_RF') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,72),8, 'Item_(20,72,8)_Blood_Angel_Armor_Box_GL') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,72),9, 'Item_(20,72,9)_Blood_Angel_Armor_Box_RW') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,72),10, 'Item_(20,72,10)_Blood_Angel_Armor_Box_SL') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,72),11, 'Item_(20,72,11)_Blood_Angel_Armor_Box_GC') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,72),12, 'Item_(20,72,12)_Blood_Angel_Armor_Box_LW') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,72),13, 'Item_(20,72,13)_Blood_Angel_Armor_Box_LM') -- DropFunction /4/
+	AddItemBag(BAG_INVENTORY, MakeItemID(20,72),14, 'Item_(20,72,14)_Blood_Angel_Armor_Box_IK') -- DropFunction /4/
 
 -- ====================================================================
 -- MonsterBags -- BagType, 0, MonsterID, 'FileName'
@@ -369,15 +392,50 @@ function LoadItemBag() -- Bags Load
 	AddItemBag(BAG_MONSTER, 0,761,'Monster_(761)_Rooster_Purple') -- DropFunction /2/
 	AddItemBag(BAG_MONSTER, 0,762,'Monster_(762)_Rooster_Red') -- DropFunction /2/
 	AddItemBag(BAG_MONSTER, 0,808,'Monster_(808)_Power_Chicken') -- DropFunction /2/
-	AddItemBag(BAG_MONSTER, 0,839,'Monster_(839)_Elite_Great_Bahamut_of_Abyss') -- DropFunction /2/
-	AddItemBag(BAG_MONSTER, 0,840,'Monster_(840)_Elite_Lizard_King_of_Abyss') -- DropFunction /2/
-	AddItemBag(BAG_MONSTER, 0,848,'Monster_(848)_Elite_Scorched_Warrior') -- DropFunction /2/
-	AddItemBag(BAG_MONSTER, 0,849,'Monster_(849)_Elite_Scorched_Assassins') -- DropFunction /2/
-	AddItemBag(BAG_MONSTER, 0,850,'Monster_(850)_Elite_Scorched Wizard') -- DropFunction /2/
-	AddItemBag(BAG_MONSTER, 0,930,'Monster_(930)_Elite_Bloody_Wolf_of_Fresh_Blood') -- DropFunction /2/
-	AddItemBag(BAG_MONSTER, 0,931,'Monster_(931)_Elite_Bloody_Beam_Knight') -- DropFunction /2/
-	AddItemBag(BAG_MONSTER, 0,932,'Monster_(932)_Elite_Bloody_Tantalus') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,135,'Monster_(135)_WhiteWizard') -- DropFunction /2/
 	
+	
+	-- no ability stone --
+	AddItemBag(BAG_MONSTER, 0,839,'Elite1_drop') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,840,'Elite1_drop') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,848,'Elite1_drop') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,849,'Elite1_drop') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,850,'Elite1_drop') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,864,'Elite1_drop') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,865,'Elite1_drop') -- DropFunction /2/
+	
+	-- 1 ability stone --
+	AddItemBag(BAG_MONSTER, 0,870,'Elite2_drop') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,871,'Elite2_drop') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,872,'Elite2_drop') -- DropFunction /2/
+	
+	AddItemBag(BAG_MONSTER, 0,879,'Elite2_drop') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,880,'Elite2_drop') -- DropFunction /2/
+
+	AddItemBag(BAG_MONSTER, 0,898,'Elite2_drop') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,899,'Elite2_drop') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,900,'Elite2_drop') -- DropFunction /2/
+	
+	AddItemBag(BAG_MONSTER, 0,908,'Elite2_drop') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,909,'Elite2_drop') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,910,'Elite2_drop') -- DropFunction /2/
+	
+	
+	-- 2ability stone --
+	AddItemBag(BAG_MONSTER, 0,914,'Elite3_drop') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,915,'Elite3_drop') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,916,'Elite3_drop') -- DropFunction /2/
+	
+	AddItemBag(BAG_MONSTER, 0,930,'Elite3_drop') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,931,'Elite3_drop') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,932,'Elite3_drop') -- DropFunction /2/
+	
+	-- 3ability stone --
+	AddItemBag(BAG_MONSTER, 0,945,'Elite4_drop') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,946,'Elite4_drop') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,947,'Elite4_drop') -- DropFunction /2/
+	
+
 -- ====================================================================
 -- EventBags -- BagType, EventID, 0, 'FileName'
 -- ====================================================================
@@ -458,6 +516,11 @@ function LoadItemBag() -- Bags Load
 -- Bags for purpose of Monster Group Regen System
 	AddItemBag(BAG_EVENT, 150,0, 'Event_Monster_(561)_Medusa') -- DropFunction /3/ used when OverriteDefaultSettings from MonsterGroupRegen.xml is set to 1
 	AddItemBag(BAG_EVENT, 151,0, 'Event_Monster_(560)_Sapi_Queen') -- DropFunction /3/ used when OverriteDefaultSettings from MonsterGroupRegen.xml is set to 1
+	AddItemBag(BAG_EVENT, 152,0, '152_Custom_Invasion_1') -- DropFunction /3/ used when OverriteDefaultSettings from MonsterGroupRegen.xml is set to 1
+	AddItemBag(BAG_EVENT, 153,0, '153_Custom_Invasion_2') -- DropFunction /3/ used when OverriteDefaultSettings from MonsterGroupRegen.xml is set to 1
+	AddItemBag(BAG_EVENT, 154,0, '154_Custom_Invasion_3') -- DropFunction /3/ used when OverriteDefaultSettings from MonsterGroupRegen.xml is set to 1
+	AddItemBag(BAG_EVENT, 155,0, '155_Custom_Invasion_4') -- DropFunction /3/ used when OverriteDefaultSettings from MonsterGroupRegen.xml is set to 1
+	AddItemBag(BAG_EVENT, 156,0, '156_Custom_Invasion_5') -- DropFunction /3/ used when OverriteDefaultSettings from MonsterGroupRegen.xml is set to 1
 	
 -- Ice Wind Castle Event
 	AddItemBag(BAG_EVENT, 77,0, 'Event_IWC_GuildMaster') -- DropFunction /3/
