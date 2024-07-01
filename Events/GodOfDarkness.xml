@@ -53,7 +53,7 @@
 -->
 
 <GodOfDarkness Enable="1">
-	<Time WaterMonsterTime="600" MainBossTime="600" MoveTown="300" RegenMinTime="64800" RegenMaxTime="86400" NoticeBeforeBoss="300" /> <!-- seconds -->
+	<Time WaterMonsterTime="600" MainBossTime="600" MoveTown="300" RegenMinTime="43190" RegenMaxTime="43200" NoticeBeforeBoss="300" /> <!-- seconds -->
 	
 	<AISettings> <!-- Monster Info controlled by AI -->
 		<WaterMonster AIGroup="30" />

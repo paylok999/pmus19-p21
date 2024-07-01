@@ -53,12 +53,12 @@
 
 <LorenDeepEvent Enable="1">
 	<Schedule>
-		<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="20" Minute="0" Second="-1" />
+		<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="19" Minute="0" Second="-1" />
 	</Schedule>
 
 	<AssaultTypeSettings>
-		<Assault Type="1" AppearanceRate="50" /> <!-- Common Assault -->
-		<Assault Type="2" AppearanceRate="50" /> <!-- Special Raid -->
+		<Assault Type="1" AppearanceRate="0" /> <!-- Common Assault -->
+		<Assault Type="2" AppearanceRate="100" /> <!-- Special Raid -->
 	</AssaultTypeSettings>
 
 	<AssaultGroupSettings>
@@ -139,4 +139,5 @@
 		<Assault Type="2" MonsterGroup="3" MonsterIndex="303" MonsterCount="1"  StartX="60" StartY="58" EndX="132" EndY="101" />
 		<Assault Type="2" MonsterGroup="3" MonsterIndex="295" MonsterCount="1"  StartX="60" StartY="58" EndX="132" EndY="101" />
 	</AssaultGroupMember>
+
 </LorenDeepEvent>

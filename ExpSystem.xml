@@ -3,7 +3,7 @@
 // ============================================================
 // == INTERNATIONAL GAMING CENTER NETWORK
 // == www.igcn.mu
-// == (C) 2010-2024 IGC-Network (R)
+// == (C) 2020-2023 IGC-Network (R)
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 // == File is a part of IGCN Group MuOnline Server files.
 // ============================================================
@@ -47,7 +47,6 @@
 //	Four: Party AddExp value for special party of four members
 //	Five: Party AddExp value for special party of five members
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-//~~ SetParty exp is applied when party is built from at least 3 different classes
 //~~ PartyRegAddExp and PartySetAddExp are used in Exp section of ExpManager.xml
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //
@@ -85,21 +84,24 @@
 //
 -->
 
-<ExpSystem CalcType="0" PartyExpGainRange="9" DebugMode="0">
+<ExpSystem CalcType="1" PartyExpGainRange="8" DebugMode="0">
 	<StaticExp Normal="1.0" Master="1.0" Majestic="1.0" Event="0.0" Quest="1.0" OffLevel="1.0" />
 	<PartyRegAddExp One="1.0" Two="1.3" Three="1.6" Four="1.9" Five="2.2" />
 	<PartySetAddExp Two="1.0" Three="1.7" Four="2.05" Five="2.4" />
 	
 	<DynamicExpRangeList> <!-- First rule that matches player requirements will be applied, therefore order of entries matters -->
-		<Range MinReset="0" MaxReset="0" MinLevel="1" MaxLevel="50" NormalExp="1.0" MasterExp="1.0" MajesticExp="1.0" OffLevelExp="1.0"/>
-		<Range MinReset="0" MaxReset="0" MinLevel="51" MaxLevel="100" NormalExp="1.2" MasterExp="1.0" MajesticExp="1.0" OffLevelExp="1.0"/>
-		<Range MinReset="0" MaxReset="0" MinLevel="101" MaxLevel="200" NormalExp="1.4" MasterExp="1.0" MajesticExp="1.0" OffLevelExp="1.0"/>
-		<Range MinReset="0" MaxReset="0" MinLevel="201" MaxLevel="400" NormalExp="1.6" MasterExp="1.0" MajesticExp="1.0" OffLevelExp="1.0"/>
-		<Range MinReset="0" MaxReset="0" MinLevel="401" MaxLevel="550" NormalExp="1.0" MasterExp="1.1" MajesticExp="1.1" OffLevelExp="1.0"/>
-		<Range MinReset="0" MaxReset="0" MinLevel="551" MaxLevel="700" NormalExp="1.0" MasterExp="1.3" MajesticExp="1.3" OffLevelExp="1.0"/>
-		<Range MinReset="0" MaxReset="0" MinLevel="701" MaxLevel="750" NormalExp="1.0" MasterExp="1.5" MajesticExp="1.5" OffLevelExp="1.0"/>
-		<Range MinReset="0" MaxReset="0" MinLevel="751" MaxLevel="800" NormalExp="1.0" MasterExp="1.7" MajesticExp="1.7" OffLevelExp="1.0"/>
-		<Range MinReset="0" MaxReset="0" MinLevel="801" MaxLevel="MAX" NormalExp="1.0" MasterExp="1.9" MajesticExp="1.9" OffLevelExp="1.0"/>
+		<Range MinReset="0" MaxReset="0" MinLevel="1" MaxLevel="50" NormalExp="9900000000.0" MasterExp="9900000000.0" MajesticExp="9900000000.0" OffLevelExp="1.0"/>
+		<Range MinReset="0" MaxReset="0" MinLevel="51" MaxLevel="100" NormalExp="9900000000.2" MasterExp="9900000000.0" MajesticExp="9900000000.0" OffLevelExp="1.0"/>
+		<Range MinReset="0" MaxReset="0" MinLevel="101" MaxLevel="200" NormalExp="9900000000.4" MasterExp="9900000000.0" MajesticExp="9900000000.0" OffLevelExp="1.0"/>
+		<Range MinReset="0" MaxReset="0" MinLevel="201" MaxLevel="400" NormalExp="9900000000.6" MasterExp="9900000000.0" MajesticExp="9900000000.0" OffLevelExp="1.0"/>
+		<Range MinReset="0" MaxReset="0" MinLevel="401" MaxLevel="550" NormalExp="9900000000.0" MasterExp="9900000000.1" MajesticExp="9900000000.1" OffLevelExp="1.0"/>
+		<Range MinReset="0" MaxReset="0" MinLevel="551" MaxLevel="700" NormalExp="9900000000.0" MasterExp="9900000000.3" MajesticExp="9900000000.3" OffLevelExp="1.0"/>
+		<Range MinReset="0" MaxReset="0" MinLevel="701" MaxLevel="750" NormalExp="99000000000.0" MasterExp="9900000000.5" MajesticExp="9900000000.5" OffLevelExp="1.0"/>
+		<Range MinReset="0" MaxReset="0" MinLevel="751" MaxLevel="800" NormalExp="9900000000.0" MasterExp="9900000000.7" MajesticExp="9900000000.7" OffLevelExp="1.0"/>
+		<Range MinReset="0" MaxReset="0" MinLevel="801" MaxLevel="901" NormalExp="9900000000.0" MasterExp="9900000000.9" MajesticExp="9900000000.9" OffLevelExp="1.0"/>
+		<Range MinReset="0" MaxReset="0" MinLevel="902" MaxLevel="1001" NormalExp="9900000000.0" MasterExp="9900000000.9" MajesticExp="9900000000.9" OffLevelExp="1.0"/>
+		<Range MinReset="0" MaxReset="0" MinLevel="1002" MaxLevel="1550" NormalExp="9900000000.0" MasterExp="9900000000.9" MajesticExp="9900000000.9" OffLevelExp="1.0"/>
+		<Range MinReset="0" MaxReset="0" MinLevel="1551" MaxLevel="MAX" NormalExp="9900000000.0" MasterExp="9900000000.9" MajesticExp="9900000000.9" OffLevelExp="1.0"/>
 	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 		<Range MinReset="1" MaxReset="2" MinLevel="1" MaxLevel="50" NormalExp="1.1" MasterExp="1.0" MajesticExp="1.0" OffLevelExp="1.0"/>
 		<Range MinReset="1" MaxReset="2" MinLevel="51" MaxLevel="100" NormalExp="1.3" MasterExp="1.0" MajesticExp="1.0" OffLevelExp="1.0"/>

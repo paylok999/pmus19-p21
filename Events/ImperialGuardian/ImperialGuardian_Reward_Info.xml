@@ -17,4 +17,5 @@
 
 <ImperialGuardian>
 	<Reward EventLevel="1" ItemBagID="700" />
+	<Reward EventLevel="2" ItemBagID="701" />
 </ImperialGuardian>

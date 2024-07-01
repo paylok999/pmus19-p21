@@ -41,4 +41,5 @@
 
 <ImperialGuardian>
 	<Monster EventLevel="1" Level="160" HealthPoint="2320" ManaPoint="0" DamageMin="61" DamageMax="61" Defense="61" MagicDefense="0" AttackRate="45" SuccessfulBlocking="45" PentagramDamageMin="61" PentagramDamageMax="61" PentagramAttackRate="45" PentagramDefense="61" PentagramDefenseRate="45" />
+	<Monster EventLevel="2" Level="160" HealthPoint="2320" ManaPoint="0" DamageMin="61" DamageMax="61" Defense="61" MagicDefense="0" AttackRate="45" SuccessfulBlocking="45" PentagramDamageMin="61" PentagramDamageMax="61" PentagramAttackRate="45" PentagramDefense="61" PentagramDefenseRate="45" />
 </ImperialGuardian>

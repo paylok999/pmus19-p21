@@ -43,7 +43,8 @@
 	<Time StandBy="10" RoundDuration="600" />
 
 	<EventEntry>
-		<Event Level="1" ReqLevel="1000" AdditionalRewardBagID="850" />
+		<Event Level="1" ReqLevel="1000" AdditionalRewardBagID="-1" />
+		<Event Level="2" ReqLevel="1000" AdditionalRewardBagID="-1" />
 	</EventEntry>
 	
 	<ElementInfo>

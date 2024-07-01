@@ -49,10 +49,11 @@
 -->
 
 <BossBattleTogether Enable="1" MaxUser="100" DamageToSuccess="1000000" >
-	<Time ToOpen="300" ToStart="30" PlayDuration="300" ToClose="30" />
+	<Time ToOpen="300" ToStart="30" PlayDuration="900" ToClose="30" />
 	
 	<Schedule>
 		<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="20" Minute="0" Second="-1" />
+		<Start Year="-1" Month="-1" Day="-1" DayOfWeek="-1" Hour="8" Minute="0" Second="-1" />
 	</Schedule>
 	
 	<RewardList>

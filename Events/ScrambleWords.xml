@@ -58,33 +58,29 @@
 	
 	<WordsList>
 		<Difficulty RoundsCount="4" ScrambleType="0" ItemBagID="400">
-			<Word Data="scramble" Hint="" />
-			<Word Data="alcohol" Hint="" />
-			<Word Data="programmer" Hint="" />
-			<Word Data="calculator" Hint="" />
-			<Word Data="computer" Hint="" />
-			<Word Data="spaghetti" Hint="" />
-			<Word Data="camera" Hint="" />
-			<Word Data="mobile" Hint="" />
-			<Word Data="bible" Hint="" />
-			<Word Data="lighter" Hint="" />
-			<Word Data="cinema" Hint="" />
-			<Word Data="forest" Hint="" />
+			<Word Data="energy" Hint="" />
+			<Word Data="ear" Hint="" />
+			<Word Data="japan" Hint="" />
+			<Word Data="spring" Hint="" />
+			<Word Data="rain" Hint="" />
+			<Word Data="grass" Hint="" />
+			<Word Data="travel" Hint="" />
+			<Word Data="fall" Hint="" />
+			<Word Data="corn" Hint="" />
+			<Word Data="wind" Hint="" />
 		</Difficulty>
 		
 		<Difficulty RoundsCount="4" ScrambleType="1" ItemBagID="401">
-			<Word Data="difficulty" Hint="" />
-			<Word Data="laser" Hint="" />
-			<Word Data="island" Hint="" />
-			<Word Data="romeo" Hint="" />
-			<Word Data="universe" Hint="" />
-			<Word Data="pillow" Hint="" />
-			<Word Data="starship" Hint="" />
-			<Word Data="original" Hint="" />
-			<Word Data="vegetable" Hint="" />
-			<Word Data="fruits" Hint="" />
-			<Word Data="newspaper" Hint="" />
-			<Word Data="wire" Hint="" />
+			<Word Data="environment" Hint="" />
+			<Word Data="photosynthesis" Hint="" />
+			<Word Data="glacier" Hint="" />
+			<Word Data="microscope" Hint="" />
+			<Word Data="molecule" Hint="" />
+			<Word Data="triangle" Hint="" />
+			<Word Data="cricket" Hint="" />
+			<Word Data="backpacking" Hint="" />
+			<Word Data="watermelon" Hint="" />
+			<Word Data="stargazing" Hint="" />
 		</Difficulty>
 	</WordsList>
 </ScrambleWords>

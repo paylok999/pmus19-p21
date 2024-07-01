@@ -144,7 +144,7 @@
 	<TowerOfRefinement>
 		<State>
 			<Cycle State="0" SwitchType="0" Time="0" /> <!-- None -->
-			<Cycle State="1" SwitchType="1" Time="82500" />	<!-- Revitalization -->
+			<Cycle State="1" SwitchType="1" Time="43200" />	<!-- Revitalization -->
 			<Cycle State="2" SwitchType="1" Time="300" /> <!-- Notify -->
 			<Cycle State="3" SwitchType="1" Time="2220" /> <!-- Close -->
 			<Cycle State="4" SwitchType="1" Time="180" /> <!-- Notify -->
