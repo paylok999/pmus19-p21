@@ -232,8 +232,8 @@
 	<Gate Index="292" Flag="1" MapNumber="58" StartX="167" StartY="24" EndX="167" EndY="25" Target="293" Direction="0" MinLevel="380" GoToGate="-2" Name="" />
 	<Gate Index="293" Flag="0" MapNumber="57" StartX="174" StartY="23" EndX="175" EndY="25" Target="0" Direction="0" MinLevel="380" GoToGate="-1" Name="" />
 	<Gate Index="294" Flag="0" MapNumber="63" StartX="120" StartY="129" EndX="126" EndY="134" Target="0" Direction="0" MinLevel="300" GoToGate="294" Name="" />
-	<Gate Index="295" Flag="0" MapNumber="64" StartX="101" StartY="64" EndX="0" EndY="0" Target="0" Direction="0" MinLevel="30" GoToGate="-2" Name="" />
-	<Gate Index="296" Flag="0" MapNumber="64" StartX="101" StartY="75" EndX="0" EndY="0" Target="0" Direction="0" MinLevel="30" GoToGate="-2" Name="" />
+	<Gate Index="295" Flag="0" MapNumber="64" StartX="89" StartY="61" EndX="0" EndY="0" Target="0" Direction="0" MinLevel="30" GoToGate="-2" Name="" />
+	<Gate Index="296" Flag="0" MapNumber="64" StartX="110" StartY="81" EndX="0" EndY="0" Target="0" Direction="0" MinLevel="30" GoToGate="-2" Name="" />
 	<Gate Index="297" Flag="0" MapNumber="64" StartX="101" StartY="113" EndX="0" EndY="0" Target="0" Direction="0" MinLevel="30" GoToGate="-2" Name="" />
 	<Gate Index="298" Flag="0" MapNumber="64" StartX="101" StartY="124" EndX="0" EndY="0" Target="0" Direction="0" MinLevel="30" GoToGate="-2" Name="" />
 	<Gate Index="299" Flag="0" MapNumber="64" StartX="154" StartY="64" EndX="0" EndY="0" Target="0" Direction="0" MinLevel="30" GoToGate="-2" Name="" />

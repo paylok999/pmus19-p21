@@ -13,27 +13,109 @@
 
 <Shop>
 	<Tab Id="1">
-		<Item Cat="12" Index="271" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
-		<Item Cat="12" Index="274" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
-		<Item Cat="12" Index="273" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
-		<Item Cat="12" Index="277" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
-		<Item Cat="12" Index="275" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
-		<Item Cat="12" Index="272" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
-		<Item Cat="12" Index="276" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
-		<Item Cat="7" Index="91" Level="3" Durability="0" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
-		<Item Cat="8" Index="91" Level="3" Durability="0" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
-		<Item Cat="9" Index="91" Level="3" Durability="0" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
-		<Item Cat="10" Index="91" Level="3" Durability="0" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
-		<Item Cat="11" Index="91" Level="3" Durability="0" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
-		<Item Cat="6" Index="29" Level="3" Durability="0" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
-		<Item Cat="6" Index="31" Level="3" Durability="0" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
-		<Item Cat="3" Index="13" Level="3" Durability="0" Skill="0" Luck="1" Option="1" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+		<Item Cat="20" Index="114" Level="0" Durability="50" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="115" Level="0" Durability="50" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="116" Level="0" Durability="50" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="117" Level="0" Durability="50" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="118" Level="0" Durability="50" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="158" Level="0" Durability="50" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="161" Level="0" Durability="50" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="164" Level="0" Durability="50" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="239" Level="0" Durability="50" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="99" Level="0" Durability="50" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="1" Serial="0" />
+		<Item Cat="13" Index="31" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="1" Serial="0" />
+		<Item Cat="13" Index="31" Level="1" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="1" Serial="0" />
+		<Item Cat="14" Index="345" Level="1" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Elemental="1" Serial="0" />
+	
 	</Tab>
 	<Tab Id="2">
-		<!-- Insert shop data here -->
+		<Item Cat="12" Index="365" Level="0"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="365" Level="1"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="335" Level="2"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="365" Level="3"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="365" Level="4"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="365" Level="5"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="366" Level="0"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="366" Level="1"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="366" Level="2"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="366" Level="3"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="366" Level="4"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="367" Level="0"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="367" Level="1"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="367" Level="2"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="367" Level="3"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="367" Level="4"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="368" Level="0"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="368" Level="1"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="368" Level="2"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="368" Level="3"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="368" Level="4"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="368" Level="5"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="369" Level="0"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="369" Level="1"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="369" Level="2"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="369" Level="3"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="370" Level="0"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="370" Level="1"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="370" Level="2"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="370" Level="3"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		
+		<Item Cat="12" Index="395" Level="0"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="395" Level="1"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="395" Level="2"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="395" Level="3"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="395" Level="4"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="395" Level="5"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="396" Level="0"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="396" Level="1"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="396" Level="2"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="396" Level="3"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="396" Level="4"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="397" Level="0"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="397" Level="1"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="397" Level="2"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="397" Level="3"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="397" Level="4"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="398" Level="0"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="398" Level="1"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="398" Level="2"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="398" Level="3"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="398" Level="4"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="398" Level="5"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="399" Level="0"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="399" Level="1"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="399" Level="2"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="399" Level="3"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="400" Level="0"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="400" Level="1"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="400" Level="2"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="12" Index="400" Level="3"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		
+		<Item Cat="20" Index="94" Durability="250" Level="0"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="95" Durability="30" Level="0"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="96" Durability="30" Level="0"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="97" Durability="30" Level="0"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="98" Durability="30" Level="0"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="99" Durability="30" Level="0"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="100" Durability="30" Level="0"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="101" Durability="30" Level="0"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="102" Durability="30" Level="0"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
 	</Tab>
 	<Tab Id="3">
-		<!-- Insert shop data here -->
+		<Item Cat="20" Index="72" Durability="1" Level="1"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="72" Durability="1" Level="2"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="72" Durability="1" Level="3"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="72" Durability="1" Level="4"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="72" Durability="1" Level="5"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="72" Durability="1" Level="6"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="72" Durability="1" Level="7"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="72" Durability="1" Level="8"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="72" Durability="1" Level="9"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="72" Durability="1" Level="10"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="72" Durability="1" Level="11"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="72" Durability="1" Level="12"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="72" Durability="1" Level="13"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
+		<Item Cat="20" Index="72" Durability="1" Level="14"  Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="5" Elemental="1" Serial="0" />
 	</Tab>
 	<Tab Id="4">
 		<!-- Insert shop data here -->

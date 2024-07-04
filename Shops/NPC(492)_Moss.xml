@@ -13,11 +13,11 @@
 
 <Shop>
 	<Tab Id="1">
-		<Item Cat="13" Index="71" Level="0" Durability="0" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
-		<Item Cat="13" Index="72" Level="0" Durability="0" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
-		<Item Cat="13" Index="73" Level="0" Durability="0" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
-		<Item Cat="13" Index="74" Level="0" Durability="0" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
-		<Item Cat="13" Index="75" Level="0" Durability="0" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+		<Item Cat="13" Index="71" Level="0" Durability="0" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="1" Serial="0" />
+		<Item Cat="13" Index="72" Level="0" Durability="0" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="1" Serial="0" />
+		<Item Cat="13" Index="73" Level="0" Durability="0" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="1" Serial="0" />
+		<Item Cat="13" Index="74" Level="0" Durability="0" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="1" Serial="0" />
+		<Item Cat="13" Index="75" Level="0" Durability="0" Skill="1" Luck="1" Option="3" Exc="-1" SetItem="0" SocketCount="0" Elemental="1" Serial="0" />
 	</Tab>
 	<Tab Id="2">
 		<!-- Insert shop data here -->
