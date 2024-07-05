@@ -59,9 +59,9 @@
 <Shops>
 	<ShopList>
 	<!-- Lorencia -->
-		<Shop NPCIndex="230" MapNumber="0" PosX="118" PosY="142" Dir="3" VipType="-1" GMShop="0" FileName="NPC(230)_Wandering_Merchant_Alex.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
+		<Shop NPCIndex="230" MapNumber="0" PosX="118" PosY="142" Dir="3" VipType="-1" GMShop="1" FileName="NPC(230)_Wandering_Merchant_Alex.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
 		<Shop NPCIndex="250" MapNumber="0" PosX="183" PosY="137" Dir="2" VipType="-1" GMShop="0" FileName="NPC(250)_Wandering_Merchant_Herald.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
-		<Shop NPCIndex="251" MapNumber="0" PosX="116" PosY="141" Dir="3" VipType="-1" GMShop="0" FileName="NPC(251)_Hanzo_the_Blacksmith.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
+		<Shop NPCIndex="251" MapNumber="0" PosX="116" PosY="141" Dir="3" VipType="-1" GMShop="1" FileName="NPC(251)_Hanzo_the_Blacksmith.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
 		<Shop NPCIndex="253" MapNumber="0" PosX="137" PosY="134" Dir="2" VipType="-1" GMShop="0" FileName="NPC(253)_Potion_Girl_Amy.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
 		<Shop NPCIndex="253" MapNumber="0" PosX="127" PosY="86" Dir="2" VipType="-1" GMShop="0" FileName="NPC(253)_Potion_Girl_Amy.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />
 		<Shop NPCIndex="254" MapNumber="0" PosX="118" PosY="113" Dir="3" VipType="-1" GMShop="0" FileName="NPC(254)_Pasi_the_Mage.xml" SpeakTexts="-1" SpeakInterval="6400" RandomText="0" />

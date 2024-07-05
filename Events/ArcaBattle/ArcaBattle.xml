@@ -95,7 +95,7 @@
 -->
 
 <ArcaBattleEvent Enable="1" FriendlyFire="0" MinGuildMember="10" DestroyPartyWhenEnter="1" MasterRegTime="10" MemberRegTime="10" ProgressWait="3" PartyWait="5" Duration="30" ChannelClose="10" TowerBuffRewardExp="20">
-	<DamageReduction OppositeTeam="60" SelfTeam="0" />
+	<DamageReduction OppositeTeam="15" SelfTeam="0" />
 
 	<Schedule>
 		<Start Year="-1" Month="-1" Day="-1" DayOfWeek="4" Hour="21" Minute="0" Second="-1" />
