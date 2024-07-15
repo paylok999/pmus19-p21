@@ -36,8 +36,8 @@
 // STRICTLY NO COMMENTS INSIDE TAGS 
 -->
 
-<RaklionEvent Enable="1">
-	<Time SelupanSkillHitDelay="1500" BossAppearance="5" BossZoneClose="300" EventStartBaseHour="18" EventStartAddHour="6" />
+<RaklionEvent Enable="0">
+	<Time SelupanSkillHitDelay="1500" BossAppearance="5" BossZoneClose="300" EventStartBaseHour="43200" EventStartAddHour="0" />
 	<EggCount Half="5" Max="15" />
 	<SkillPatterns Pattern1="80" Pattern2="60" Pattern3="50" Pattern4="40" Pattern5="20" Pattern6="10" />
 </RaklionEvent>

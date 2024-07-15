@@ -123,6 +123,20 @@
 	<Package GUID="7" ID="9" ItemSequence="7" UniqueID1="22" UniqueID2="37" Description="Talisman of Luck" />
 	<Package GUID="8" ID="9" ItemSequence="8" UniqueID1="22" UniqueID2="37" Description="Talisman of Luck" />
 	<Package GUID="9" ID="9" ItemSequence="9" UniqueID1="22" UniqueID2="37" Description="Talisman of Luck" />
+	<Package GUID="0" ID="10" ItemSequence="0" UniqueID1="899" UniqueID2="1109" Description="Scroll Master of Defense - 1 Day" />
+	<Package GUID="1" ID="10" ItemSequence="1" UniqueID1="901" UniqueID2="1117" Description="Scroll Master of Health - 1 Day" />
+	<Package GUID="2" ID="10" ItemSequence="2" UniqueID1="902" UniqueID2="1121" Description="Scroll Master of Mana - 1 Day" />
+	<Package GUID="3" ID="10" ItemSequence="3" UniqueID1="903" UniqueID2="1125" Description="Scroll Master of Wrath - 1 Day" />
+	<Package GUID="4" ID="10" ItemSequence="4" UniqueID1="904" UniqueID2="1129" Description="Scroll Master of Recovery - 1 Day" />
+	<Package GUID="5" ID="10" ItemSequence="5" UniqueID1="906" UniqueID2="1137" Description="Scroll Master of Strenghener - 1 Day" />
+	<Package GUID="6" ID="10" ItemSequence="6" UniqueID1="907" UniqueID2="1141" Description="Scroll Master of Swiftness - 1 Day" />
+	<Package GUID="0" ID="11" ItemSequence="0" UniqueID1="899" UniqueID2="1109" Description="Scroll Master of Defense - 1 Day" />
+	<Package GUID="1" ID="11" ItemSequence="1" UniqueID1="901" UniqueID2="1117" Description="Scroll Master of Health - 1 Day" />
+	<Package GUID="2" ID="11" ItemSequence="2" UniqueID1="902" UniqueID2="1121" Description="Scroll Master of Mana - 1 Day" />
+	<Package GUID="3" ID="11" ItemSequence="3" UniqueID1="904" UniqueID2="1129" Description="Scroll Master of Recovery - 1 Day" />
+	<Package GUID="4" ID="11" ItemSequence="4" UniqueID1="906" UniqueID2="1137" Description="Scroll Master of Strenghener - 1 Day" />
+	<Package GUID="5" ID="11" ItemSequence="5" UniqueID1="907" UniqueID2="1141" Description="Scroll Master of Swiftness - 1 Day" />
+	<Package GUID="6" ID="11" ItemSequence="6" UniqueID1="900" UniqueID2="1113" Description="Scroll Master of Wizardry- 1 Day" />
 	<Package GUID="0" ID="12" ItemSequence="0" UniqueID1="899" UniqueID2="1109" Description="Scroll Master of Defense - 1 Day" />
 	<Package GUID="1" ID="12" ItemSequence="1" UniqueID1="901" UniqueID2="1117" Description="Scroll Master of Health - 1 Day" />
 	<Package GUID="2" ID="12" ItemSequence="2" UniqueID1="902" UniqueID2="1121" Description="Scroll Master of Mana - 1 Day" />
@@ -165,18 +179,4 @@
 	<Package GUID="4" ID="19" ItemSequence="4" UniqueID1="906" UniqueID2="1139" Description="Scroll Master of Strenghener - 7 Day" />
 	<Package GUID="5" ID="19" ItemSequence="5" UniqueID1="907" UniqueID2="1143" Description="Scroll Master of Swiftness  - 7 Day" />
 	<Package GUID="6" ID="19" ItemSequence="6" UniqueID1="900" UniqueID2="1115" Description="Scroll Master of Wizardry- 7 Day" />
-	<Package GUID="0" ID="20" ItemSequence="0" UniqueID1="899" UniqueID2="1109" Description="Scroll Master of Defense - 1 Day" />
-	<Package GUID="1" ID="20" ItemSequence="1" UniqueID1="901" UniqueID2="1117" Description="Scroll Master of Health - 1 Day" />
-	<Package GUID="2" ID="20" ItemSequence="2" UniqueID1="902" UniqueID2="1121" Description="Scroll Master of Mana - 1 Day" />
-	<Package GUID="3" ID="20" ItemSequence="3" UniqueID1="903" UniqueID2="1125" Description="Scroll Master of Wrath - 1 Day" />
-	<Package GUID="4" ID="20" ItemSequence="4" UniqueID1="904" UniqueID2="1129" Description="Scroll Master of Recovery - 1 Day" />
-	<Package GUID="5" ID="20" ItemSequence="5" UniqueID1="906" UniqueID2="1137" Description="Scroll Master of Strenghener - 1 Day" />
-	<Package GUID="6" ID="20" ItemSequence="6" UniqueID1="907" UniqueID2="1141" Description="Scroll Master of Swiftness - 1 Day" />
-	<Package GUID="0" ID="21" ItemSequence="0" UniqueID1="899" UniqueID2="1109" Description="Scroll Master of Defense - 1 Day" />
-	<Package GUID="1" ID="21" ItemSequence="1" UniqueID1="901" UniqueID2="1117" Description="Scroll Master of Health - 1 Day" />
-	<Package GUID="2" ID="21" ItemSequence="2" UniqueID1="902" UniqueID2="1121" Description="Scroll Master of Mana - 1 Day" />
-	<Package GUID="3" ID="21" ItemSequence="3" UniqueID1="904" UniqueID2="1129" Description="Scroll Master of Recovery - 1 Day" />
-	<Package GUID="4" ID="21" ItemSequence="4" UniqueID1="906" UniqueID2="1137" Description="Scroll Master of Strenghener - 1 Day" />
-	<Package GUID="5" ID="21" ItemSequence="5" UniqueID1="907" UniqueID2="1141" Description="Scroll Master of Swiftness - 1 Day" />
-	<Package GUID="6" ID="21" ItemSequence="6" UniqueID1="900" UniqueID2="1113" Description="Scroll Master of Wizardry- 1 Day" />
 </CashItemPackage>

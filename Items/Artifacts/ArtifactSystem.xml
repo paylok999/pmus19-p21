@@ -62,47 +62,134 @@
 	</ArtifactMap>
 
 	<ArtifactItem>
-		<Item MapID="0" Type="1" Unk1="1" Cat="20" Index="96" Rate="217120" />
-		<Item MapID="0" Type="2" Unk1="2" Cat="20" Index="97" Rate="208000" />
-		<Item MapID="0" Type="3" Unk1="3" Cat="20" Index="98" Rate="168000" />
-		<Item MapID="0" Type="4" Unk1="4" Cat="20" Index="99" Rate="168000" />
-		<Item MapID="0" Type="5" Unk1="5" Cat="20" Index="100" Rate="19200" />
-		<Item MapID="0" Type="6" Unk1="6" Cat="20" Index="101" Rate="19200" />
-		<Item MapID="0" Type="7" Unk1="6" Cat="20" Index="102" Rate="480" />
+		<Item MapID="0" Type="1" Unk1="1" Cat="20" Index="96" Rate="250000" />
+		<Item MapID="0" Type="2" Unk1="2" Cat="20" Index="97" Rate="250000" />
+		<Item MapID="0" Type="3" Unk1="3" Cat="20" Index="98" Rate="200000" />
+		<Item MapID="0" Type="4" Unk1="4" Cat="20" Index="99" Rate="150000" />
+		<Item MapID="0" Type="5" Unk1="5" Cat="20" Index="100" Rate="100000" />
+		<Item MapID="0" Type="6" Unk1="6" Cat="20" Index="101" Rate="100000" />
+		<Item MapID="0" Type="7" Unk1="6" Cat="20" Index="102" Rate="100000" />
 	</ArtifactItem>
 
 	<OptionSelect>
-		<Select MapID="0" ArtifactType="1" OptionSetID1="1" OptionSetID2="0" OptionSetID3="0" Rate="300000" />
-		<Select MapID="0" ArtifactType="1" OptionSetID1="2" OptionSetID2="0" OptionSetID3="0" Rate="300000" />
-		<Select MapID="0" ArtifactType="1" OptionSetID1="3" OptionSetID2="0" OptionSetID3="0" Rate="200000" />
-		<Select MapID="0" ArtifactType="1" OptionSetID1="4" OptionSetID2="0" OptionSetID3="0" Rate="200000" />
-		<Select MapID="0" ArtifactType="2" OptionSetID1="5" OptionSetID2="0" OptionSetID3="0" Rate="200000" />
-		<Select MapID="0" ArtifactType="2" OptionSetID1="6" OptionSetID2="0" OptionSetID3="0" Rate="200000" />
-		<Select MapID="0" ArtifactType="2" OptionSetID1="7" OptionSetID2="0" OptionSetID3="0" Rate="200000" />
-		<Select MapID="0" ArtifactType="2" OptionSetID1="8" OptionSetID2="0" OptionSetID3="0" Rate="200000" />
-		<Select MapID="0" ArtifactType="2" OptionSetID1="9" OptionSetID2="0" OptionSetID3="0" Rate="200000" />
-		<Select MapID="0" ArtifactType="3" OptionSetID1="10" OptionSetID2="0" OptionSetID3="0" Rate="200000" />
-		<Select MapID="0" ArtifactType="3" OptionSetID1="11" OptionSetID2="0" OptionSetID3="0" Rate="200000" />
-		<Select MapID="0" ArtifactType="3" OptionSetID1="12" OptionSetID2="0" OptionSetID3="0" Rate="300000" />
-		<Select MapID="0" ArtifactType="3" OptionSetID1="13" OptionSetID2="0" OptionSetID3="0" Rate="300000" />
-		<Select MapID="0" ArtifactType="4" OptionSetID1="14" OptionSetID2="0" OptionSetID3="0" Rate="399970" />
-		<Select MapID="0" ArtifactType="4" OptionSetID1="15" OptionSetID2="0" OptionSetID3="0" Rate="400000" />
-		<Select MapID="0" ArtifactType="4" OptionSetID1="16" OptionSetID2="0" OptionSetID3="0" Rate="30"/>
-		<Select MapID="0" ArtifactType="4" OptionSetID1="17" OptionSetID2="0" OptionSetID3="0" Rate="200000" />
-		<Select MapID="0" ArtifactType="5" OptionSetID1="18" OptionSetID2="0" OptionSetID3="0" Rate="200000" />
-		<Select MapID="0" ArtifactType="5" OptionSetID1="19" OptionSetID2="0" OptionSetID3="0" Rate="200000" />
-		<Select MapID="0" ArtifactType="5" OptionSetID1="20" OptionSetID2="0" OptionSetID3="0" Rate="300000" />
-		<Select MapID="0" ArtifactType="5" OptionSetID1="21" OptionSetID2="0" OptionSetID3="0" Rate="300000" />
+		<!-- artifact 1 -->
+		<Select MapID="0" ArtifactType="1" OptionSetID1="1" OptionSetID2="2" OptionSetID3="0" Rate="300000" />
+		<Select MapID="0" ArtifactType="1" OptionSetID1="1" OptionSetID2="3" OptionSetID3="0" Rate="300000" />
+		<Select MapID="0" ArtifactType="1" OptionSetID1="1" OptionSetID2="4" OptionSetID3="0" Rate="300000" />
+		
+		<Select MapID="0" ArtifactType="1" OptionSetID1="2" OptionSetID2="1" OptionSetID3="0" Rate="300000" />
+		<Select MapID="0" ArtifactType="1" OptionSetID1="2" OptionSetID2="3" OptionSetID3="0" Rate="300000" />
+		<Select MapID="0" ArtifactType="1" OptionSetID1="2" OptionSetID2="4" OptionSetID3="0" Rate="300000" />
+		
+		<Select MapID="0" ArtifactType="1" OptionSetID1="3" OptionSetID2="1" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="1" OptionSetID1="3" OptionSetID2="2" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="1" OptionSetID1="3" OptionSetID2="4" OptionSetID3="0" Rate="200000" />
+		
+		<Select MapID="0" ArtifactType="1" OptionSetID1="4" OptionSetID2="1" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="1" OptionSetID1="4" OptionSetID2="2" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="1" OptionSetID1="4" OptionSetID2="3" OptionSetID3="0" Rate="200000" />
+		
+		<!-- artifact 2 -->
+		<Select MapID="0" ArtifactType="2" OptionSetID1="5" OptionSetID2="6" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="2" OptionSetID1="5" OptionSetID2="7" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="2" OptionSetID1="5" OptionSetID2="8" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="2" OptionSetID1="5" OptionSetID2="9" OptionSetID3="0" Rate="200000" />
+		
+		<Select MapID="0" ArtifactType="2" OptionSetID1="6" OptionSetID2="5" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="2" OptionSetID1="6" OptionSetID2="7" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="2" OptionSetID1="6" OptionSetID2="8" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="2" OptionSetID1="6" OptionSetID2="9" OptionSetID3="0" Rate="200000" />
+		
+		<Select MapID="0" ArtifactType="2" OptionSetID1="7" OptionSetID2="5" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="2" OptionSetID1="7" OptionSetID2="6" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="2" OptionSetID1="7" OptionSetID2="8" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="2" OptionSetID1="7" OptionSetID2="9" OptionSetID3="0" Rate="200000" />
+		
+		<Select MapID="0" ArtifactType="2" OptionSetID1="8" OptionSetID2="5" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="2" OptionSetID1="8" OptionSetID2="6" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="2" OptionSetID1="8" OptionSetID2="7" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="2" OptionSetID1="8" OptionSetID2="9" OptionSetID3="0" Rate="200000" />
+		
+		<Select MapID="0" ArtifactType="2" OptionSetID1="9" OptionSetID2="5" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="2" OptionSetID1="9" OptionSetID2="6" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="2" OptionSetID1="9" OptionSetID2="7" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="2" OptionSetID1="9" OptionSetID2="8" OptionSetID3="0" Rate="200000" />
+		
+		<!-- artifact 3 -->
+		<Select MapID="0" ArtifactType="3" OptionSetID1="10" OptionSetID2="11" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="3" OptionSetID1="10" OptionSetID2="12" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="3" OptionSetID1="10" OptionSetID2="13" OptionSetID3="0" Rate="200000" />
+		
+		<Select MapID="0" ArtifactType="3" OptionSetID1="11" OptionSetID2="10" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="3" OptionSetID1="11" OptionSetID2="12" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="3" OptionSetID1="11" OptionSetID2="13" OptionSetID3="0" Rate="200000" />
+		
+		<Select MapID="0" ArtifactType="3" OptionSetID1="12" OptionSetID2="10" OptionSetID3="0" Rate="300000" />
+		<Select MapID="0" ArtifactType="3" OptionSetID1="12" OptionSetID2="11" OptionSetID3="0" Rate="300000" />
+		<Select MapID="0" ArtifactType="3" OptionSetID1="12" OptionSetID2="13" OptionSetID3="0" Rate="300000" />
+		
+		<Select MapID="0" ArtifactType="3" OptionSetID1="13" OptionSetID2="10" OptionSetID3="0" Rate="300000" />
+		<Select MapID="0" ArtifactType="3" OptionSetID1="13" OptionSetID2="11" OptionSetID3="0" Rate="300000" />
+		<Select MapID="0" ArtifactType="3" OptionSetID1="13" OptionSetID2="12" OptionSetID3="0" Rate="300000" />
+		
+		<!-- artifact 4 -->
+		<Select MapID="0" ArtifactType="4" OptionSetID1="14" OptionSetID2="15" OptionSetID3="0" Rate="300000" />
+		<Select MapID="0" ArtifactType="4" OptionSetID1="14" OptionSetID2="16" OptionSetID3="0" Rate="300000" />
+		<Select MapID="0" ArtifactType="4" OptionSetID1="14" OptionSetID2="17" OptionSetID3="0" Rate="300000" />
+		
+		<Select MapID="0" ArtifactType="4" OptionSetID1="15" OptionSetID2="14" OptionSetID3="0" Rate="300000" />
+		<Select MapID="0" ArtifactType="4" OptionSetID1="15" OptionSetID2="16" OptionSetID3="0" Rate="300000" />
+		<Select MapID="0" ArtifactType="4" OptionSetID1="15" OptionSetID2="17" OptionSetID3="0" Rate="300000" />
+		
+		<Select MapID="0" ArtifactType="4" OptionSetID1="16" OptionSetID2="14" OptionSetID3="0" Rate="300000"/>
+		<Select MapID="0" ArtifactType="4" OptionSetID1="16" OptionSetID2="15" OptionSetID3="0" Rate="300000"/>
+		<Select MapID="0" ArtifactType="4" OptionSetID1="16" OptionSetID2="17" OptionSetID3="0" Rate="300000"/>
+		
+		<Select MapID="0" ArtifactType="4" OptionSetID1="17" OptionSetID2="14" OptionSetID3="0" Rate="300000" />
+		<Select MapID="0" ArtifactType="4" OptionSetID1="17" OptionSetID2="15" OptionSetID3="0" Rate="300000" />
+		<Select MapID="0" ArtifactType="4" OptionSetID1="17" OptionSetID2="16" OptionSetID3="0" Rate="300000" />
+		
+		<!-- artifact 5 -->
+		<Select MapID="0" ArtifactType="5" OptionSetID1="18" OptionSetID2="19" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="5" OptionSetID1="18" OptionSetID2="20" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="5" OptionSetID1="18" OptionSetID2="21" OptionSetID3="0" Rate="200000" />
+		
+		<Select MapID="0" ArtifactType="5" OptionSetID1="19" OptionSetID2="18" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="5" OptionSetID1="19" OptionSetID2="20" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="5" OptionSetID1="19" OptionSetID2="21" OptionSetID3="0" Rate="200000" />
+		
+		<Select MapID="0" ArtifactType="5" OptionSetID1="20" OptionSetID2="18" OptionSetID3="0" Rate="300000" />
+		<Select MapID="0" ArtifactType="5" OptionSetID1="20" OptionSetID2="19" OptionSetID3="0" Rate="300000" />
+		<Select MapID="0" ArtifactType="5" OptionSetID1="20" OptionSetID2="21" OptionSetID3="0" Rate="300000" />
+		
+		<Select MapID="0" ArtifactType="5" OptionSetID1="21" OptionSetID2="18" OptionSetID3="0" Rate="300000" />
+		<Select MapID="0" ArtifactType="5" OptionSetID1="21" OptionSetID2="19" OptionSetID3="0" Rate="300000" />
+		<Select MapID="0" ArtifactType="5" OptionSetID1="21" OptionSetID2="20" OptionSetID3="0" Rate="300000" />
+		
+		<!-- artifact 6 -->
 		<Select MapID="0" ArtifactType="6" OptionSetID1="22" OptionSetID2="0" OptionSetID3="0" Rate="200000" />
 		<Select MapID="0" ArtifactType="6" OptionSetID1="23" OptionSetID2="0" OptionSetID3="0" Rate="100000" />
 		<Select MapID="0" ArtifactType="6" OptionSetID1="24" OptionSetID2="0" OptionSetID3="0" Rate="200000" />
 		<Select MapID="0" ArtifactType="6" OptionSetID1="25" OptionSetID2="0" OptionSetID3="0" Rate="200000" />
 		<Select MapID="0" ArtifactType="6" OptionSetID1="26" OptionSetID2="0" OptionSetID3="0" Rate="100000" />
 		<Select MapID="0" ArtifactType="6" OptionSetID1="27" OptionSetID2="0" OptionSetID3="0" Rate="200000" />
-		<Select MapID="0" ArtifactType="7" OptionSetID1="29" OptionSetID2="0" OptionSetID3="0" Rate="300000" />
-		<Select MapID="0" ArtifactType="7" OptionSetID1="31" OptionSetID2="0" OptionSetID3="0" Rate="200000" />
-		<Select MapID="0" ArtifactType="7" OptionSetID1="32" OptionSetID2="0" OptionSetID3="0" Rate="300000" />
-		<Select MapID="0" ArtifactType="7" OptionSetID1="34" OptionSetID2="0" OptionSetID3="0" Rate="200000" />
+		
+		<!-- artifact 7 -->
+		<Select MapID="0" ArtifactType="7" OptionSetID1="29" OptionSetID2="31" OptionSetID3="0" Rate="300000" />
+		<Select MapID="0" ArtifactType="7" OptionSetID1="29" OptionSetID2="32" OptionSetID3="0" Rate="300000" />
+		<Select MapID="0" ArtifactType="7" OptionSetID1="29" OptionSetID2="34" OptionSetID3="0" Rate="300000" />
+		
+		<Select MapID="0" ArtifactType="7" OptionSetID1="31" OptionSetID2="29" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="7" OptionSetID1="31" OptionSetID2="32" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="7" OptionSetID1="31" OptionSetID2="34" OptionSetID3="0" Rate="200000" />
+		
+		<Select MapID="0" ArtifactType="7" OptionSetID1="32" OptionSetID2="29" OptionSetID3="0" Rate="300000" />
+		<Select MapID="0" ArtifactType="7" OptionSetID1="32" OptionSetID2="31" OptionSetID3="0" Rate="300000" />
+		<Select MapID="0" ArtifactType="7" OptionSetID1="32" OptionSetID2="34" OptionSetID3="0" Rate="300000" />
+		
+		<Select MapID="0" ArtifactType="7" OptionSetID1="34" OptionSetID2="29" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="7" OptionSetID1="34" OptionSetID2="31" OptionSetID3="0" Rate="200000" />
+		<Select MapID="0" ArtifactType="7" OptionSetID1="34" OptionSetID2="32" OptionSetID3="0" Rate="200000" />
 	</OptionSelect>										
 	
 	<EnhancementMix>
