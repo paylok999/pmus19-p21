@@ -569,6 +569,9 @@ function LoadItemBag() -- Bags Load
 	
 -- Bags for purpose of Blessing Box event
 	AddItemBag(BAG_EVENT, 900,0, 'Event_BlessingBox_(899)_Kill')
+-- Bags for purpose of Last Man Standing event
+	AddItemBag(BAG_EVENT, 1000,0, 'Event_LastManStanding_Looser_Reward') -- DropFunction /3/
+	AddItemBag(BAG_EVENT, 1050,0, 'Event_LastManStanding_Winner_Reward') -- DropFunction /3/
 end
 
 -- ### /1/ Drop Item (using Item Bag Structure) ### --
