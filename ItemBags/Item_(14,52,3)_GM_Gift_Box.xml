@@ -37,6 +37,7 @@
 				<Item Cat="12" Index="306" Durability="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="-2" ElementalItem="-1" /> <!-- Runedil's Goldentune Harp-->
 				<Item Cat="12" Index="307" Durability="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="2" ElementalItem="-1" /> <!-- Lemuria's Orb-->
 				<Item Cat="12" Index="308" Durability="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="2" ElementalItem="-1" /> <!-- Norrwen's Bloodstring Lyra-->
+				<Item Cat="13" Index="276" Durability="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="2" ElementalItem="-1" /> <!-- Conqueror Badge -->
 				
 		</Drop>
 	</DropAllow>

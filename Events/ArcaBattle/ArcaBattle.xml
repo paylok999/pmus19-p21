@@ -98,7 +98,7 @@
 	<DamageReduction OppositeTeam="45" SelfTeam="0" />
 
 	<Schedule>
-		<Start Year="-1" Month="-1" Day="-1" DayOfWeek="4" Hour="21" Minute="0" Second="-1" />
+		<Start Year="-1" Month="-1" Day="-1" DayOfWeek="6" Hour="21" Minute="0" Second="-1" />
 	</Schedule>
 
 	<ObeliskInformation>

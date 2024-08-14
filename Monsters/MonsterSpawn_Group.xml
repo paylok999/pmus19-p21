@@ -113,6 +113,8 @@
 		
 		<Group Index="1">
 			<Area StartX="66"  StartY="161" EndX="64"  EndY="163" />
+			<Area StartX="149"  StartY="198" EndX="145"  EndY="202" />
+			<Area StartX="206"  StartY="132" EndX="209"  EndY="126" />
 		</Group>
 		
 		<Group Index="2">
@@ -120,6 +122,10 @@
 			<Area StartX="92"  StartY="158" EndX="33"  EndY="220" />
 			<Area StartX="33"  StartY="154" EndX="34"  EndY="86" />
 			<Area StartX="49"  StartY="43" EndX="96"  EndY="31" />
+			<Area StartX="45"  StartY="20" EndX="51"  EndY="21" />
+			<Area StartX="72"  StartY="22" EndX="81"  EndY="25" />
+			<Area StartX="97"  StartY="17" EndX="99"  EndY="24" />
+			<Area StartX="78"  StartY="51" EndX="84"  EndY="46" />
 		</Group>
 	</SpotSettings>
  

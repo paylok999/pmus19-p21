@@ -105,7 +105,7 @@
 				<Option Set="2" Luck="1" MasteryBonusOption="-1" Rate="62500" />
 				<Option Set="2" Luck="1" MasteryBonusOption="1" Rate="62500" />
 				<Option Set="2" Luck="1" MasteryBonusOption="2" Rate="62500" />
-        <Option Set="2" Luck="1" MasteryBonusOption="3" Rate="62500" />
+				<Option Set="2" Luck="1" MasteryBonusOption="3" Rate="62500" />
 			</CommonItem>
 			<PeriodItem>  <!-- Maximum 50 entries -->
 			</PeriodItem>
