@@ -255,4 +255,6 @@
 	<Item GUID="1129" iIndex="885" iSubIndex="0" OptionSelect="1894" PackageID="0" CoinType="1" CoinValue="100" UniqueID1="1241" UniqueID2="1894" ShopCategory="65" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="Golden Oak Charm - 1 Day" />
 	<Item GUID="1130" iIndex="885" iSubIndex="0" OptionSelect="1895" PackageID="0" CoinType="1" CoinValue="200" UniqueID1="1241" UniqueID2="1895" ShopCategory="65" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="Golden Oak Charm - 3 Day" />
 	<Item GUID="1131" iIndex="885" iSubIndex="0" OptionSelect="1896" PackageID="0" CoinType="1" CoinValue="500" UniqueID1="1241" UniqueID2="1896" ShopCategory="65" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="Golden Oak Charm - 7 Day" />
+	<Item GUID="1132" iIndex="886" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="100" UniqueID1="1242" UniqueID2="1897" ShopCategory="73" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="Expansion Scroll Radiance Slo" />
+	<Item GUID="1133" iIndex="887" iSubIndex="0" OptionSelect="0" PackageID="0" CoinType="1" CoinValue="1000" UniqueID1="1243" UniqueID2="1899" ShopCategory="74" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="Expansion Scroll Radiance Slo" />
 </CashItemList>

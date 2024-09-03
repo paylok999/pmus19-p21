@@ -1189,4 +1189,6 @@
 	<Item GUID="1241" ID="1894" Cat="13" Index="132" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" SocketInfo="-1;-1;-1;-1;-1" Element="0" Type="2" Duration="1440" Description="Golden Oak Charm - 1 Day" />
 	<Item GUID="1241" ID="1895" Cat="13" Index="132" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" SocketInfo="-1;-1;-1;-1;-1" Element="0" Type="2" Duration="4320" Description="Golden Oak Charm - 3 Day" />
 	<Item GUID="1241" ID="1896" Cat="13" Index="132" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" SocketInfo="-1;-1;-1;-1;-1" Element="0" Type="2" Duration="10080" Description="Golden Oak Charm - 7 Day" />
+	<Item GUID="1242" ID="1897" Cat="14" Index="316" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" SocketInfo="-1;-1;-1;-1;-1" Element="0" Type="0" Duration="0" Description="Expansion Scroll Radiance Slo" />
+	<Item GUID="1243" ID="1899" Cat="14" Index="316" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" SocketInfo="-1;-1;-1;-1;-1" Element="0" Type="0" Duration="0" Description="Expansion Scroll Radiance Slo" />
 </CashItemInfo>

@@ -134,7 +134,7 @@
 //
 // STRICTLY NO COMMENTS INSIDE TAGS 
 -->
-<CastleSiegeEvent Enable="1" FriendlyFire="0" ResetAccumulatedTimeAfterKill="1" ResetAccumulatedTimeAfterMove="1" LordMixDailyLimit="1" LordMixMinGuildPosition="2" LiftAllyRequirement="0" CrownSwitchMinGuildPosition="3" CrownMinGuildPos="0">
+<CastleSiegeEvent Enable="1" FriendlyFire="0" ResetAccumulatedTimeAfterKill="1" ResetAccumulatedTimeAfterMove="1" LordMixDailyLimit="2" LordMixMinGuildPosition="2" LiftAllyRequirement="0" CrownSwitchMinGuildPosition="3" CrownMinGuildPos="0">
 	<DamageReduction OppositeTeam="45" SelfTeam="0" />
 	<WeaponDamage AttackTeam="300" DefenseTeam="200" />
 	<CycleSettings Days="7" StartYear="0" StartMonth="0" StartDay="0">
