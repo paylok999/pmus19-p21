@@ -22,8 +22,9 @@
 			<Drop Rate="10000" Type="0" Count="3">
 				<Item Cat="14" Index="448" Durability="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- RUUDBOX3000 -->
 				<Item Cat="20" Index="102" ItemMinLevel="0" ItemMaxLevel="0" Skill="0" Luck="0" Option="0" Exc="-2" SetItem="0" SocketCount="-2" ElementalItem="-1" />  <!-- artifact 7 -->
-				<Item Cat="13" Index="468" Durability="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="-1" /> <!-- golden sentence -->
-				<Item Cat="20" Index="158" Durability="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="-1" /> <!-- uriel feather -->
+				<Item Cat="13" Index="468" Durability="10" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="-1" /> <!-- golden sentence x10 -->
+				<Item Cat="20" Index="158" Durability="5" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="-1" /> <!-- uriel feather x5 -->
+				<Item Cat="20" Index="164" Durability="100" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="-1" /> <!-- ac x100 -->
 
 			</Drop>
 		</DropAllow>
