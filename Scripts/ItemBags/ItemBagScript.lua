@@ -375,6 +375,12 @@ function LoadItemBag() -- Bags Load
 	AddItemBag(BAG_MONSTER, 0,675,'Monster_(675)_Pouch_of_Blessing') -- DropFunction /2/
 	AddItemBag(BAG_MONSTER, 0,676,'Monster_(676)_Fire_Flame_Ghost') -- DropFunction /2/
 	AddItemBag(BAG_MONSTER, 0,677,'Monster_(677)_Golden_Goblin') -- DropFunction /2/
+	
+	AddItemBag(BAG_MONSTER, 0,691,'Monster_(691)_Horse_Green') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,692,'Monster_(692)_Horse_Yellow') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,693,'Monster_(693)_Horse_Brown') -- DropFunction /2/
+	AddItemBag(BAG_MONSTER, 0,694,'Monster_(694)_Horse_Blue') -- DropFunction /2/
+	
 	AddItemBag(BAG_MONSTER, 0,709,'Monster_(709)_Chaos_Goblin') -- DropFunction /2/
 	AddItemBag(BAG_MONSTER, 0,710,'Monster_(710)_Chaos_Goblin') -- DropFunction /2/
 	AddItemBag(BAG_MONSTER, 0,711,'Monster_(711)_Chaos_Goblin') -- DropFunction /2/

@@ -426,23 +426,42 @@
 // (3) Green, White, Purple, Red Horse - Karutan 2
 // (4) Green, White, Purple, Red Horse - Ferea
 // ####################################################################### -->
-	<Spot Enable="0" StartDay="1" EndDay="31" StartHour="0" StartMinute="0" EndHour="23" EndMinute="59" DayOfWeek="-1">
-		<Spawn Index="691" MapNumber="37" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="5" /> <!--  Green Horse (1), x5 -->
-		<Spawn Index="691" MapNumber="80" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="5" /> <!--  Green Horse (2), x5 -->
-		<Spawn Index="691" MapNumber="81" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="5" /> <!--  Green Horse (3), x5 -->
-		<Spawn Index="691" MapNumber="112" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="5" /> <!-- Green Horse (4), x5 -->
-		<Spawn Index="692" MapNumber="37" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="5" /> <!--  White Horse (1), x5 -->
-		<Spawn Index="692" MapNumber="80" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="5" /> <!--  White Horse (2), x5 -->
-		<Spawn Index="692" MapNumber="81" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="5" /> <!--  White Horse (3), x5 -->
-		<Spawn Index="692" MapNumber="112" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="5" /> <!-- White Horse (4), x5 -->
-		<Spawn Index="693" MapNumber="37" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="5" /> <!--  Purple Horse (1), x5 -->
-		<Spawn Index="693" MapNumber="80" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="5" /> <!--  Purple Horse (2), x5 -->
-		<Spawn Index="693" MapNumber="81" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="5" /> <!--  Purple Horse (3), x5 -->
-		<Spawn Index="693" MapNumber="112" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="5" /> <!-- Purple Horse (4), x5 -->
-		<Spawn Index="694" MapNumber="37" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="5" /> <!--  Red Horse (1), x5 -->
-		<Spawn Index="694" MapNumber="80" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="5" /> <!--  Red Horse (2), x5 -->
-		<Spawn Index="694" MapNumber="81" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="5" /> <!--  Red Horse (3), x5 -->
-		<Spawn Index="694" MapNumber="112" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="5" /> <!-- Red Horse (4), x5 -->
+	<Spot Enable="1" StartDay="1" EndDay="31" StartHour="4" StartMinute="0" EndHour="10" EndMinute="0" DayOfWeek="-1">
+		<Spawn Index="691" MapNumber="37" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!--  Green Horse (1), x5 -->
+		<Spawn Index="691" MapNumber="80" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!--  Green Horse (2), x5 -->
+		<Spawn Index="691" MapNumber="81" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!--  Green Horse (3), x5 -->
+		<Spawn Index="691" MapNumber="112" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!-- Green Horse (4), x5 -->
+		<Spawn Index="692" MapNumber="37" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!--  White Horse (1), x5 -->
+		<Spawn Index="692" MapNumber="80" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!--  White Horse (2), x5 -->
+		<Spawn Index="692" MapNumber="81" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!--  White Horse (3), x5 -->
+		<Spawn Index="692" MapNumber="112" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!-- White Horse (4), x5 -->
+		<Spawn Index="693" MapNumber="37" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!--  Purple Horse (1), x5 -->
+		<Spawn Index="693" MapNumber="80" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!--  Purple Horse (2), x5 -->
+		<Spawn Index="693" MapNumber="81" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!--  Purple Horse (3), x5 -->
+		<Spawn Index="693" MapNumber="112" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!-- Purple Horse (4), x5 -->
+		<Spawn Index="694" MapNumber="37" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!--  Red Horse (1), x5 -->
+		<Spawn Index="694" MapNumber="80" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!--  Red Horse (2), x5 -->
+		<Spawn Index="694" MapNumber="81" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!--  Red Horse (3), x5 -->
+		<Spawn Index="694" MapNumber="112" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!-- Red Horse (4), x5 -->
+	</Spot>	
+	
+	<Spot Enable="1" StartDay="1" EndDay="31" StartHour="16" StartMinute="0" EndHour="22" EndMinute="0" DayOfWeek="-1">
+		<Spawn Index="691" MapNumber="37" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!--  Green Horse (1), x5 -->
+		<Spawn Index="691" MapNumber="80" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!--  Green Horse (2), x5 -->
+		<Spawn Index="691" MapNumber="81" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!--  Green Horse (3), x5 -->
+		<Spawn Index="691" MapNumber="112" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!-- Green Horse (4), x5 -->
+		<Spawn Index="692" MapNumber="37" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!--  White Horse (1), x5 -->
+		<Spawn Index="692" MapNumber="80" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!--  White Horse (2), x5 -->
+		<Spawn Index="692" MapNumber="81" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!--  White Horse (3), x5 -->
+		<Spawn Index="692" MapNumber="112" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!-- White Horse (4), x5 -->
+		<Spawn Index="693" MapNumber="37" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!--  Purple Horse (1), x5 -->
+		<Spawn Index="693" MapNumber="80" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!--  Purple Horse (2), x5 -->
+		<Spawn Index="693" MapNumber="81" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!--  Purple Horse (3), x5 -->
+		<Spawn Index="693" MapNumber="112" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!-- Purple Horse (4), x5 -->
+		<Spawn Index="694" MapNumber="37" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!--  Red Horse (1), x5 -->
+		<Spawn Index="694" MapNumber="80" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!--  Red Horse (2), x5 -->
+		<Spawn Index="694" MapNumber="81" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!--  Red Horse (3), x5 -->
+		<Spawn Index="694" MapNumber="112" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!-- Red Horse (4), x5 -->
 	</Spot>	
 	
 <!-- ### New Year Monster Event ##########################################
@@ -451,7 +470,7 @@
 // (3) Green, White, Purple Red Sheep - Devias
 // (4) Green, White, Purple Red Sheep - Noria
 // ####################################################################### -->
-	<Spot Enable="1" StartDay="1" EndDay="31" StartHour="4" StartMinute="0" EndHour="10" EndMinute="0" DayOfWeek="-1">
+	<Spot Enable="0" StartDay="1" EndDay="31" StartHour="4" StartMinute="0" EndHour="10" EndMinute="0" DayOfWeek="-1">
 		<Spawn Index="726" MapNumber="0"  Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!-- Green Sheep (1), x5 -->
 		<Spawn Index="726" MapNumber="51" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!-- Green Sheep (2), x5 -->
 		<Spawn Index="726" MapNumber="2"  Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!-- Green Sheep (3), x5 -->
@@ -470,7 +489,7 @@
 		<Spawn Index="729" MapNumber="3"  Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!-- Red Sheep (4), x5 -->
 	</Spot>
 	
-	<Spot Enable="1" StartDay="1" EndDay="31" StartHour="16" StartMinute="0" EndHour="22" EndMinute="0" DayOfWeek="-1">
+	<Spot Enable="0" StartDay="1" EndDay="31" StartHour="16" StartMinute="0" EndHour="22" EndMinute="0" DayOfWeek="-1">
 		<Spawn Index="726" MapNumber="0"  Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!-- Green Sheep (1), x5 -->
 		<Spawn Index="726" MapNumber="51" Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!-- Green Sheep (2), x5 -->
 		<Spawn Index="726" MapNumber="2"  Distance="30" StartX="1" StartY="1" EndX="255" EndY="255" Dir="-1" Count="10" /> <!-- Green Sheep (3), x5 -->

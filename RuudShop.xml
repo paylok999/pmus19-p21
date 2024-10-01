@@ -98,7 +98,7 @@
 
 <RuudShop Enable="1" ShopTime="60">
 	<Character Class="-1" Name="All Classes">
-		<Item Cat="16" Index="42" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="1440" Price="75000" /> <!-- Chicken (Evolved) -->
+		<Item Cat="16" Index="42" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="10080" Price="75000" /> <!-- Chicken (Evolved) -->
 		<Item Cat="14" Index="341" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="50000" /> <!-- Sealed Stone Shard -->
 		<Item Cat="14" Index="364" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="5000" /> <!-- Socket Upgrade Note -->
 		<Item Cat="14" Index="384" Level="0" Skill="0" Luck="0" Option="0" Exc="-1" SetItem="0" SocketCount="0" Element="0" Duration="0" Price="1000" /> <!-- Sphere Upgrade Rune Capsule -->

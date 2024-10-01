@@ -211,24 +211,25 @@
 				<Item Cat="13" Index="468" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" Durability="2"/> <!-- Golden Sentence -->
 				<Item Cat="13" Index="468" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="3" Durability="1"/> <!-- Golden Sentence -->
 				
-				<Item Cat="12" Index="335" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10FIRE -->
-				<Item Cat="12" Index="336" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10WATER -->
-				<Item Cat="12" Index="337" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10ICE -->
-				<Item Cat="12" Index="338" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10WIND -->
-				<Item Cat="12" Index="339" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10LIGHTNING -->
-				<Item Cat="12" Index="340" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10EARTH -->
-				<Item Cat="12" Index="341" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11FIRE -->
-				<Item Cat="12" Index="342" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11WATER -->
-				<Item Cat="12" Index="343" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11ICE -->
-				<Item Cat="12" Index="344" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11WIND -->
-				<Item Cat="12" Index="345" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11LIGHTNING -->
-				<Item Cat="12" Index="346" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11EARTH -->
-				<Item Cat="12" Index="347" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12FIRE -->
-				<Item Cat="12" Index="348" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12WATER -->
-				<Item Cat="12" Index="349" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12ICE -->
-				<Item Cat="12" Index="350" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12WIND -->
-				<Item Cat="12" Index="351" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12LIGHTNING -->
-				<Item Cat="12" Index="352" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12EARTH -->
+				<Item Cat="12" Index="353" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13FIRE -->
+				<Item Cat="12" Index="354" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13WATER -->
+				<Item Cat="12" Index="355" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13ICE -->
+				<Item Cat="12" Index="356" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13WIND -->
+				<Item Cat="12" Index="357" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13LIGHTNING -->
+				<Item Cat="12" Index="358" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13EARTH -->
+				<Item Cat="12" Index="359" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14FIRE -->
+				<Item Cat="12" Index="360" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14WATER -->
+				<Item Cat="12" Index="361" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14ICE -->
+				<Item Cat="12" Index="362" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14WIND -->
+				<Item Cat="12" Index="363" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14LIGHTNING -->
+				<Item Cat="12" Index="364" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14EARTH -->
+				<Item Cat="12" Index="365" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15FIRE -->
+				<Item Cat="12" Index="366" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15WATER -->
+				<Item Cat="12" Index="367" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15ICE -->
+				<Item Cat="12" Index="368" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15WIND -->
+				<Item Cat="12" Index="369" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15LIGHTNING -->
+				<Item Cat="12" Index="370" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15EARTH -->
+				<Item Cat="13" Index="37" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5"/> <!-- horn of fenrir -->
 				
 				<Item Cat="20" Index="508" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="1" Durability="1"/> <!-- jewel of socket -->
 				
@@ -296,24 +297,25 @@
 				<Item Cat="13" Index="468" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" Durability="2"/> <!-- Golden Sentence -->
 				<Item Cat="13" Index="468" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="3" Durability="1"/> <!-- Golden Sentence -->
 				
-				<Item Cat="12" Index="335" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10FIRE -->
-				<Item Cat="12" Index="336" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10WATER -->
-				<Item Cat="12" Index="337" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10ICE -->
-				<Item Cat="12" Index="338" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10WIND -->
-				<Item Cat="12" Index="339" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10LIGHTNING -->
-				<Item Cat="12" Index="340" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10EARTH -->
-				<Item Cat="12" Index="341" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11FIRE -->
-				<Item Cat="12" Index="342" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11WATER -->
-				<Item Cat="12" Index="343" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11ICE -->
-				<Item Cat="12" Index="344" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11WIND -->
-				<Item Cat="12" Index="345" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11LIGHTNING -->
-				<Item Cat="12" Index="346" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11EARTH -->
-				<Item Cat="12" Index="347" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12FIRE -->
-				<Item Cat="12" Index="348" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12WATER -->
-				<Item Cat="12" Index="349" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12ICE -->
-				<Item Cat="12" Index="350" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12WIND -->
-				<Item Cat="12" Index="351" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12LIGHTNING -->
-				<Item Cat="12" Index="352" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12EARTH -->
+				<Item Cat="12" Index="353" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13FIRE -->
+				<Item Cat="12" Index="354" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13WATER -->
+				<Item Cat="12" Index="355" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13ICE -->
+				<Item Cat="12" Index="356" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13WIND -->
+				<Item Cat="12" Index="357" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13LIGHTNING -->
+				<Item Cat="12" Index="358" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13EARTH -->
+				<Item Cat="12" Index="359" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14FIRE -->
+				<Item Cat="12" Index="360" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14WATER -->
+				<Item Cat="12" Index="361" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14ICE -->
+				<Item Cat="12" Index="362" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14WIND -->
+				<Item Cat="12" Index="363" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14LIGHTNING -->
+				<Item Cat="12" Index="364" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14EARTH -->
+				<Item Cat="12" Index="365" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15FIRE -->
+				<Item Cat="12" Index="366" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15WATER -->
+				<Item Cat="12" Index="367" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15ICE -->
+				<Item Cat="12" Index="368" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15WIND -->
+				<Item Cat="12" Index="369" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15LIGHTNING -->
+				<Item Cat="12" Index="370" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15EARTH -->
+				<Item Cat="13" Index="37" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5"/> <!-- horn of fenrir -->
 				
 				<Item Cat="20" Index="508" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="1" Durability="1"/> <!-- jewel of socket -->
 				
@@ -382,24 +384,25 @@
 				<Item Cat="13" Index="468" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" Durability="2"/> <!-- Golden Sentence -->
 				<Item Cat="13" Index="468" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="3" Durability="1"/> <!-- Golden Sentence -->
 				
-				<Item Cat="12" Index="335" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10FIRE -->
-				<Item Cat="12" Index="336" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10WATER -->
-				<Item Cat="12" Index="337" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10ICE -->
-				<Item Cat="12" Index="338" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10WIND -->
-				<Item Cat="12" Index="339" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10LIGHTNING -->
-				<Item Cat="12" Index="340" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10EARTH -->
-				<Item Cat="12" Index="341" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11FIRE -->
-				<Item Cat="12" Index="342" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11WATER -->
-				<Item Cat="12" Index="343" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11ICE -->
-				<Item Cat="12" Index="344" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11WIND -->
-				<Item Cat="12" Index="345" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11LIGHTNING -->
-				<Item Cat="12" Index="346" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11EARTH -->
-				<Item Cat="12" Index="347" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12FIRE -->
-				<Item Cat="12" Index="348" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12WATER -->
-				<Item Cat="12" Index="349" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12ICE -->
-				<Item Cat="12" Index="350" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12WIND -->
-				<Item Cat="12" Index="351" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12LIGHTNING -->
-				<Item Cat="12" Index="352" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12EARTH -->
+				<Item Cat="12" Index="353" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13FIRE -->
+				<Item Cat="12" Index="354" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13WATER -->
+				<Item Cat="12" Index="355" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13ICE -->
+				<Item Cat="12" Index="356" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13WIND -->
+				<Item Cat="12" Index="357" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13LIGHTNING -->
+				<Item Cat="12" Index="358" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13EARTH -->
+				<Item Cat="12" Index="359" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14FIRE -->
+				<Item Cat="12" Index="360" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14WATER -->
+				<Item Cat="12" Index="361" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14ICE -->
+				<Item Cat="12" Index="362" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14WIND -->
+				<Item Cat="12" Index="363" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14LIGHTNING -->
+				<Item Cat="12" Index="364" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14EARTH -->
+				<Item Cat="12" Index="365" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15FIRE -->
+				<Item Cat="12" Index="366" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15WATER -->
+				<Item Cat="12" Index="367" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15ICE -->
+				<Item Cat="12" Index="368" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15WIND -->
+				<Item Cat="12" Index="369" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15LIGHTNING -->
+				<Item Cat="12" Index="370" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15EARTH -->
+				<Item Cat="13" Index="37" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5"/> <!-- horn of fenrir -->
 				
 				<Item Cat="20" Index="508" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="1" Durability="1"/> <!-- jewel of socket -->
 				
@@ -468,24 +471,25 @@
 				<Item Cat="13" Index="468" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" Durability="2"/> <!-- Golden Sentence -->
 				<Item Cat="13" Index="468" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="3" Durability="1"/> <!-- Golden Sentence -->
 				
-				<Item Cat="12" Index="335" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10FIRE -->
-				<Item Cat="12" Index="336" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10WATER -->
-				<Item Cat="12" Index="337" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10ICE -->
-				<Item Cat="12" Index="338" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10WIND -->
-				<Item Cat="12" Index="339" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10LIGHTNING -->
-				<Item Cat="12" Index="340" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10EARTH -->
-				<Item Cat="12" Index="341" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11FIRE -->
-				<Item Cat="12" Index="342" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11WATER -->
-				<Item Cat="12" Index="343" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11ICE -->
-				<Item Cat="12" Index="344" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11WIND -->
-				<Item Cat="12" Index="345" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11LIGHTNING -->
-				<Item Cat="12" Index="346" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11EARTH -->
-				<Item Cat="12" Index="347" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12FIRE -->
-				<Item Cat="12" Index="348" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12WATER -->
-				<Item Cat="12" Index="349" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12ICE -->
-				<Item Cat="12" Index="350" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12WIND -->
-				<Item Cat="12" Index="351" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12LIGHTNING -->
-				<Item Cat="12" Index="352" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12EARTH -->
+				<Item Cat="12" Index="353" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13FIRE -->
+				<Item Cat="12" Index="354" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13WATER -->
+				<Item Cat="12" Index="355" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13ICE -->
+				<Item Cat="12" Index="356" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13WIND -->
+				<Item Cat="12" Index="357" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13LIGHTNING -->
+				<Item Cat="12" Index="358" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13EARTH -->
+				<Item Cat="12" Index="359" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14FIRE -->
+				<Item Cat="12" Index="360" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14WATER -->
+				<Item Cat="12" Index="361" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14ICE -->
+				<Item Cat="12" Index="362" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14WIND -->
+				<Item Cat="12" Index="363" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14LIGHTNING -->
+				<Item Cat="12" Index="364" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14EARTH -->
+				<Item Cat="12" Index="365" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15FIRE -->
+				<Item Cat="12" Index="366" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15WATER -->
+				<Item Cat="12" Index="367" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15ICE -->
+				<Item Cat="12" Index="368" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15WIND -->
+				<Item Cat="12" Index="369" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15LIGHTNING -->
+				<Item Cat="12" Index="370" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15EARTH -->
+				<Item Cat="13" Index="37" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5"/> <!-- horn of fenrir -->
 				
 				<Item Cat="20" Index="508" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="1" Durability="1"/> <!-- jewel of socket -->
 				
@@ -554,24 +558,25 @@
 				<Item Cat="13" Index="468" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" Durability="2"/> <!-- Golden Sentence -->
 				<Item Cat="13" Index="468" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="3" Durability="1"/> <!-- Golden Sentence -->
 				
-				<Item Cat="12" Index="335" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10FIRE -->
-				<Item Cat="12" Index="336" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10WATER -->
-				<Item Cat="12" Index="337" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10ICE -->
-				<Item Cat="12" Index="338" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10WIND -->
-				<Item Cat="12" Index="339" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10LIGHTNING -->
-				<Item Cat="12" Index="340" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10EARTH -->
-				<Item Cat="12" Index="341" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11FIRE -->
-				<Item Cat="12" Index="342" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11WATER -->
-				<Item Cat="12" Index="343" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11ICE -->
-				<Item Cat="12" Index="344" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11WIND -->
-				<Item Cat="12" Index="345" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11LIGHTNING -->
-				<Item Cat="12" Index="346" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11EARTH -->
-				<Item Cat="12" Index="347" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12FIRE -->
-				<Item Cat="12" Index="348" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12WATER -->
-				<Item Cat="12" Index="349" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12ICE -->
-				<Item Cat="12" Index="350" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12WIND -->
-				<Item Cat="12" Index="351" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12LIGHTNING -->
-				<Item Cat="12" Index="352" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12EARTH -->
+				<Item Cat="12" Index="353" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13FIRE -->
+				<Item Cat="12" Index="354" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13WATER -->
+				<Item Cat="12" Index="355" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13ICE -->
+				<Item Cat="12" Index="356" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13WIND -->
+				<Item Cat="12" Index="357" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13LIGHTNING -->
+				<Item Cat="12" Index="358" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13EARTH -->
+				<Item Cat="12" Index="359" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14FIRE -->
+				<Item Cat="12" Index="360" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14WATER -->
+				<Item Cat="12" Index="361" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14ICE -->
+				<Item Cat="12" Index="362" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14WIND -->
+				<Item Cat="12" Index="363" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14LIGHTNING -->
+				<Item Cat="12" Index="364" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14EARTH -->
+				<Item Cat="12" Index="365" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15FIRE -->
+				<Item Cat="12" Index="366" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15WATER -->
+				<Item Cat="12" Index="367" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15ICE -->
+				<Item Cat="12" Index="368" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15WIND -->
+				<Item Cat="12" Index="369" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15LIGHTNING -->
+				<Item Cat="12" Index="370" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15EARTH -->
+				<Item Cat="13" Index="37" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5"/> <!-- horn of fenrir -->
 				
 				<Item Cat="20" Index="508" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="1" Durability="1"/> <!-- jewel of socket -->
 				
@@ -640,24 +645,25 @@
 				<Item Cat="13" Index="468" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" Durability="2"/> <!-- Golden Sentence -->
 				<Item Cat="13" Index="468" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="3" Durability="1"/> <!-- Golden Sentence -->
 				
-				<Item Cat="12" Index="335" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10FIRE -->
-				<Item Cat="12" Index="336" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10WATER -->
-				<Item Cat="12" Index="337" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10ICE -->
-				<Item Cat="12" Index="338" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10WIND -->
-				<Item Cat="12" Index="339" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10LIGHTNING -->
-				<Item Cat="12" Index="340" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10EARTH -->
-				<Item Cat="12" Index="341" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11FIRE -->
-				<Item Cat="12" Index="342" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11WATER -->
-				<Item Cat="12" Index="343" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11ICE -->
-				<Item Cat="12" Index="344" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11WIND -->
-				<Item Cat="12" Index="345" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11LIGHTNING -->
-				<Item Cat="12" Index="346" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11EARTH -->
-				<Item Cat="12" Index="347" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12FIRE -->
-				<Item Cat="12" Index="348" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12WATER -->
-				<Item Cat="12" Index="349" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12ICE -->
-				<Item Cat="12" Index="350" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12WIND -->
-				<Item Cat="12" Index="351" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12LIGHTNING -->
-				<Item Cat="12" Index="352" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12EARTH -->
+				<Item Cat="12" Index="353" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13FIRE -->
+				<Item Cat="12" Index="354" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13WATER -->
+				<Item Cat="12" Index="355" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13ICE -->
+				<Item Cat="12" Index="356" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13WIND -->
+				<Item Cat="12" Index="357" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13LIGHTNING -->
+				<Item Cat="12" Index="358" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13EARTH -->
+				<Item Cat="12" Index="359" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14FIRE -->
+				<Item Cat="12" Index="360" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14WATER -->
+				<Item Cat="12" Index="361" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14ICE -->
+				<Item Cat="12" Index="362" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14WIND -->
+				<Item Cat="12" Index="363" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14LIGHTNING -->
+				<Item Cat="12" Index="364" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14EARTH -->
+				<Item Cat="12" Index="365" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15FIRE -->
+				<Item Cat="12" Index="366" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15WATER -->
+				<Item Cat="12" Index="367" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15ICE -->
+				<Item Cat="12" Index="368" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15WIND -->
+				<Item Cat="12" Index="369" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15LIGHTNING -->
+				<Item Cat="12" Index="370" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15EARTH -->
+				<Item Cat="13" Index="37" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5"/> <!-- horn of fenrir -->
 				
 				<Item Cat="20" Index="508" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="1" Durability="1"/> <!-- jewel of socket -->
 				
@@ -725,24 +731,25 @@
 				<Item Cat="13" Index="468" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="2" Durability="2"/> <!-- Golden Sentence -->
 				<Item Cat="13" Index="468" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="3" Durability="1"/> <!-- Golden Sentence -->
 				
-				<Item Cat="12" Index="335" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10FIRE -->
-				<Item Cat="12" Index="336" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10WATER -->
-				<Item Cat="12" Index="337" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10ICE -->
-				<Item Cat="12" Index="338" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10WIND -->
-				<Item Cat="12" Index="339" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10LIGHTNING -->
-				<Item Cat="12" Index="340" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS10EARTH -->
-				<Item Cat="12" Index="341" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11FIRE -->
-				<Item Cat="12" Index="342" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11WATER -->
-				<Item Cat="12" Index="343" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11ICE -->
-				<Item Cat="12" Index="344" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11WIND -->
-				<Item Cat="12" Index="345" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11LIGHTNING -->
-				<Item Cat="12" Index="346" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS11EARTH -->
-				<Item Cat="12" Index="347" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12FIRE -->
-				<Item Cat="12" Index="348" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12WATER -->
-				<Item Cat="12" Index="349" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12ICE -->
-				<Item Cat="12" Index="350" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12WIND -->
-				<Item Cat="12" Index="351" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12LIGHTNING -->
-				<Item Cat="12" Index="352" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS12EARTH -->
+				<Item Cat="12" Index="353" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13FIRE -->
+				<Item Cat="12" Index="354" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13WATER -->
+				<Item Cat="12" Index="355" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13ICE -->
+				<Item Cat="12" Index="356" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13WIND -->
+				<Item Cat="12" Index="357" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13LIGHTNING -->
+				<Item Cat="12" Index="358" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="5" Durability="1"/> <!-- SS13EARTH -->
+				<Item Cat="12" Index="359" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14FIRE -->
+				<Item Cat="12" Index="360" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14WATER -->
+				<Item Cat="12" Index="361" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14ICE -->
+				<Item Cat="12" Index="362" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14WIND -->
+				<Item Cat="12" Index="363" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14LIGHTNING -->
+				<Item Cat="12" Index="364" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="4" Durability="1"/> <!-- SS14EARTH -->
+				<Item Cat="12" Index="365" MinLevel="0" MaxLevel="5" Skill="1" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15FIRE -->
+				<Item Cat="12" Index="366" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15WATER -->
+				<Item Cat="12" Index="367" MinLevel="0" MaxLevel="4" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15ICE -->
+				<Item Cat="12" Index="368" MinLevel="0" MaxLevel="5" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15WIND -->
+				<Item Cat="12" Index="369" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15LIGHTNING -->
+				<Item Cat="12" Index="370" MinLevel="0" MaxLevel="3" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="3" Durability="1"/> <!-- SS15EARTH -->
+				<Item Cat="13" Index="37" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="0" Rate="5"/> <!-- horn of fenrir -->
 				
 				<Item Cat="20" Index="508" MinLevel="0" MaxLevel="0" Skill="0" Luck="0" Option="-1" Exc="0" SetItem="0" SocketCount="0" ElementalItem="-1" Rate="1" Durability="1"/> <!-- jewel of socket -->
 				

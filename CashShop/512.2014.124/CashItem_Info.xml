@@ -1210,4 +1210,7 @@
 	<Item GUID="1260" ID="1932" Cat="12" Index="154" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" SocketInfo="-1;-1;-1;-1;-1" Element="0" Type="0" Duration="0" Description="Small White Cloak" />
 	<Item GUID="1261" ID="1934" Cat="12" Index="172" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" SocketInfo="-1;-1;-1;-1;-1" Element="0" Type="0" Duration="0" Description="Small Iron Cloak" />
 	<Item GUID="1262" ID="1936" Cat="12" Index="278" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" SocketInfo="-1;-1;-1;-1;-1" Element="0" Type="0" Duration="0" Description="Small Cloak of Limit" />
+	<Item GUID="1263" ID="1937" Cat="12" Index="135" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" SocketInfo="-1;-1;-1;-1;-1" Element="0" Type="0" Duration="0" Description="Little Warrior's Cloak" />
+	<Item GUID="1264" ID="1939" Cat="12" Index="278" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" SocketInfo="-1;-1;-1;-1;-1" Element="0" Type="0" Duration="0" Description="Small Cloak of Limit" />
+	<Item GUID="1265" ID="1941" Cat="12" Index="135" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" SocketInfo="-1;-1;-1;-1;-1" Element="0" Type="0" Duration="0" Description="Little Warrior's Cloak" />
 </CashItemInfo>

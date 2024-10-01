@@ -275,4 +275,6 @@
 	<Item GUID="1150" iIndex="904" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="200" UniqueID1="1260" UniqueID2="1932" ShopCategory="78" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="Small White Cloak" />
 	<Item GUID="1151" iIndex="905" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="200" UniqueID1="1261" UniqueID2="1934" ShopCategory="78" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="Small Iron Cloak" />
 	<Item GUID="1152" iIndex="906" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="200" UniqueID1="1262" UniqueID2="1936" ShopCategory="78" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="Small Cloak of Limit" />
+	<Item GUID="1153" iIndex="907" iSubIndex="508" OptionSelect="0" PackageID="0" CoinType="0" CoinValue="200" UniqueID1="1263" UniqueID2="1937" ShopCategory="78" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="Little Warrior's Cloak" />
+	<Item GUID="1155" iIndex="909" iSubIndex="0" OptionSelect="0" PackageID="0" CoinType="1" CoinValue="2000" UniqueID1="1265" UniqueID2="1941" ShopCategory="77" GPRewardValue="0" CanBuy="1" CanGift="1" RandomItemSelect="0" Description="Little Warrior's Cloak" />
 </CashItemList>

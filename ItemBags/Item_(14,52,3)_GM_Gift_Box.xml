@@ -35,8 +35,9 @@
 				<Item Cat="13" Index="52" Durability="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Condor Flame -->
 				<Item Cat="13" Index="53" Durability="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="0" /> <!-- Condor Feather -->
 				<Item Cat="12" Index="306" Durability="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="-2" ElementalItem="-1" /> <!-- Runedil's Goldentune Harp-->
-				<Item Cat="12" Index="307" Durability="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="2" ElementalItem="-1" /> <!-- Lemuria's Orb-->
-				<Item Cat="12" Index="308" Durability="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="2" ElementalItem="-1" /> <!-- Norrwen's Bloodstring Lyra-->
+				<Item Cat="12" Index="307" Durability="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="-2" ElementalItem="-1" /> <!-- Lemuria's Orb-->
+				<Item Cat="12" Index="308" Durability="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="-2" ElementalItem="-1" /> <!-- Norrwen's Bloodstring Lyra-->
+				<Item Cat="12" Index="213" Durability="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="-2" ElementalItem="-1" /> <!-- Antonia's Sword -->
 				<Item Cat="13" Index="276" Durability="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="2" ElementalItem="-1" /> <!-- Conqueror Badge -->
 				<Item Cat="13" Index="36" Durability="1" ItemMinLevel="0" ItemMaxLevel="0" Skill="1" Luck="1" Option="0" Exc="-1" SetItem="0" SocketCount="0" ElementalItem="-1" /> <!-- broken horn -->
 				
